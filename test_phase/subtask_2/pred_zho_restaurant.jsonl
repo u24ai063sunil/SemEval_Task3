@@ -1,0 +1,1000 @@
+{"ID": "R9980:S010", "Triplet": []}
+{"ID": "R9980:S008", "Triplet": []}
+{"ID": "R9975:S001", "Triplet": [{"Aspect": "基", "Opinion": "上", "VA": "6.86#6.43"}, {"Aspect": "基", "Opinion": "底帶", "VA": "6.86#6.43"}]}
+{"ID": "R9962:S010", "Triplet": []}
+{"ID": "R9959:S006", "Triplet": [{"Aspect": "糖", "Opinion": ",炸", "VA": "6.48#6.11"}]}
+{"ID": "R9959:S004", "Triplet": []}
+{"ID": "R9958:S025", "Triplet": []}
+{"ID": "R9958:S006", "Triplet": []}
+{"ID": "R9945:S029", "Triplet": [{"Aspect": "老的", "Opinion": "著", "VA": "6.22#5.68"}, {"Aspect": "老的", "Opinion": "口感", "VA": "6.22#5.68"}]}
+{"ID": "R9938:S010", "Triplet": []}
+{"ID": "R9938:S009", "Triplet": []}
+{"ID": "R9937:S010", "Triplet": [{"Aspect": " ", "Opinion": " ", "VA": "6.69#6.20"}, {"Aspect": "滑蛋", "Opinion": "25", "VA": "6.46#6.03"}, {"Aspect": "30", "Opinion": "元", "VA": "6.64#6.14"}, {"Aspect": " ", "Opinion": " ", "VA": "6.69#6.20"}, {"Aspect": " ", "Opinion": "蚵仔", "VA": "6.69#6.20"}, {"Aspect": "滑蛋", "Opinion": ",麵", "VA": "6.46#6.03"}]}
+{"ID": "R9937:S007", "Triplet": []}
+{"ID": "R9933:S007", "Triplet": []}
+{"ID": "R9933:S002", "Triplet": []}
+{"ID": "R9933:S000", "Triplet": []}
+{"ID": "R9932:S003", "Triplet": []}
+{"ID": "R9922:S003", "Triplet": [{"Aspect": "又", "Opinion": "外", "VA": "6.63#5.97"}, {"Aspect": "又", "Opinion": "皮", "VA": "6.63#5.97"}, {"Aspect": "又", "Opinion": "之", "VA": "6.63#5.97"}, {"Aspect": "又", "Opinion": "酥", "VA": "6.63#5.97"}]}
+{"ID": "R9905:S004", "Triplet": [{"Aspect": ",瘦", "Opinion": "意外", "VA": "4.94#5.41"}, {"Aspect": ",瘦", "Opinion": "有些", "VA": "4.94#5.41"}, {"Aspect": ",瘦", "Opinion": "柴澀", "VA": "4.94#5.41"}, {"Aspect": ",瘦", "Opinion": "感,", "VA": "4.94#5.41"}]}
+{"ID": "R9897:S013", "Triplet": []}
+{"ID": "R9897:S004", "Triplet": []}
+{"ID": "R9878:S007", "Triplet": [{"Aspect": ",", "Opinion": "著泡", "VA": "6.64#6.10"}, {"Aspect": "會膩", "Opinion": "完全", "VA": "6.43#5.89"}, {"Aspect": "度", "Opinion": ",泡", "VA": "6.69#6.25"}]}
+{"ID": "R9870:S008", "Triplet": []}
+{"ID": "R9870:S007", "Triplet": [{"Aspect": "僅有", "Opinion": "、", "VA": "4.19#5.24"}, {"Aspect": "僅有", "Opinion": "得不", "VA": "4.19#5.24"}]}
+{"ID": "R9866:S002", "Triplet": [{"Aspect": "跟台", "Opinion": "湯風", "VA": "6.90#6.53"}, {"Aspect": "跟台", "Opinion": "味", "VA": "6.90#6.53"}, {"Aspect": "跟台", "Opinion": "不", "VA": "6.90#6.53"}, {"Aspect": "打底", "Opinion": ",但", "VA": "6.98#6.47"}]}
+{"ID": "R9859:S005", "Triplet": []}
+{"ID": "R9859:S003", "Triplet": [{"Aspect": "鰻魚", "Opinion": "蒲", "VA": "6.07#5.86"}, {"Aspect": "80", "Opinion": "鹹甘", "VA": "5.79#5.84"}, {"Aspect": "80", "Opinion": "下", "VA": "5.79#5.84"}, {"Aspect": "80", "Opinion": "飯,", "VA": "5.79#5.84"}]}
+{"ID": "R9858:S008", "Triplet": [{"Aspect": "的蔥", "Opinion": "多", "VA": "6.40#5.76"}, {"Aspect": "的蔥", "Opinion": ",吃", "VA": "6.40#5.76"}, {"Aspect": "的蔥", "Opinion": "起", "VA": "6.40#5.76"}, {"Aspect": "的蔥", "Opinion": "來富", "VA": "6.40#5.76"}]}
+{"ID": "R9856:S011", "Triplet": []}
+{"ID": "R9856:S001", "Triplet": []}
+{"ID": "R9850:S026", "Triplet": []}
+{"ID": "R9850:S020", "Triplet": []}
+{"ID": "R9836:S005", "Triplet": []}
+{"ID": "R9831:S008", "Triplet": []}
+{"ID": "R9824:S014", "Triplet": [{"Aspect": "辣", "Opinion": ")", "VA": "5.88#5.65"}, {"Aspect": "辣", "Opinion": "但炒", "VA": "5.88#5.65"}, {"Aspect": "辣", "Opinion": "來", "VA": "5.88#5.65"}]}
+{"ID": "R9820:S027", "Triplet": [{"Aspect": "蝦", "Opinion": "餃好", "VA": "6.55#6.05"}]}
+{"ID": "R9820:S015", "Triplet": [{"Aspect": "個片", "Opinion": "就", "VA": "3.70#6.38"}]}
+{"ID": "R9820:S009", "Triplet": []}
+{"ID": "R9820:S007", "Triplet": []}
+{"ID": "R9819:S005", "Triplet": [{"Aspect": "同", "Opinion": "時", "VA": "6.56#6.02"}]}
+{"ID": "R9806:S004", "Triplet": [{"Aspect": ",", "Opinion": "量", "VA": "6.28#5.80"}, {"Aspect": "且", "Opinion": "這", "VA": "6.18#5.69"}]}
+{"ID": "R9801:S014", "Triplet": [{"Aspect": "淡中", "Opinion": "同", "VA": "6.07#5.47"}, {"Aspect": "淡中", "Opinion": ",淡", "VA": "6.07#5.47"}, {"Aspect": "淡中", "Opinion": "味", "VA": "6.07#5.47"}, {"Aspect": "淡中", "Opinion": "鴨骨", "VA": "6.07#5.47"}]}
+{"ID": "R9801:S012", "Triplet": []}
+{"ID": "R9801:S007", "Triplet": []}
+{"ID": "R9801:S005", "Triplet": [{"Aspect": "剛", "Opinion": "例", "VA": "6.10#5.61"}, {"Aspect": "以及", "Opinion": "脂", "VA": "6.13#5.66"}, {"Aspect": "盤鴨", "Opinion": "鴨肉", "VA": "6.12#5.65"}]}
+{"ID": "R9800:S013", "Triplet": []}
+{"ID": "R9800:S002", "Triplet": [{"Aspect": "灌湯", "Opinion": "灌湯", "VA": "5.66#5.60"}, {"Aspect": " ", "Opinion": "包 ", "VA": "5.59#5.63"}]}
+{"ID": "R9794:S028", "Triplet": []}
+{"ID": "R9784:S000", "Triplet": []}
+{"ID": "R9781:S002", "Triplet": []}
+{"ID": "R9767:S000", "Triplet": [{"Aspect": "與披", "Opinion": "補", "VA": "6.28#5.98"}, {"Aspect": "與披", "Opinion": "得挺", "VA": "6.28#5.98"}, {"Aspect": "與披", "Opinion": ",", "VA": "6.28#5.98"}, {"Aspect": "與披", "Opinion": "而", "VA": "6.28#5.98"}, {"Aspect": "與披", "Opinion": "且餅", "VA": "6.28#5.98"}]}
+{"ID": "R9764:S010", "Triplet": []}
+{"ID": "R9758:S015", "Triplet": []}
+{"ID": "R9756:S006", "Triplet": []}
+{"ID": "R9752:S031", "Triplet": [{"Aspect": "較", "Opinion": "口", "VA": "6.21#5.80"}, {"Aspect": "較", "Opinion": "感", "VA": "6.21#5.80"}]}
+{"ID": "R9752:S025", "Triplet": [{"Aspect": "也", "Opinion": "片,", "VA": "6.91#6.53"}, {"Aspect": "很下", "Opinion": "就", "VA": "6.99#6.65"}, {"Aspect": "很下", "Opinion": ",肉", "VA": "6.99#6.65"}, {"Aspect": "也", "Opinion": "片", "VA": "6.91#6.53"}]}
+{"ID": "R9752:S024", "Triplet": [{"Aspect": "這烤", "Opinion": "肉", "VA": "6.91#6.62"}]}
+{"ID": "R9731:S013", "Triplet": [{"Aspect": "★★", "Opinion": "醬調", "VA": "6.39#5.80"}, {"Aspect": "★★", "Opinion": "得不", "VA": "6.39#5.80"}]}
+{"ID": "R9721:S011", "Triplet": [{"Aspect": "的餛", "Opinion": "肉", "VA": "6.99#6.48"}, {"Aspect": "的餛", "Opinion": "餡", "VA": "6.99#6.48"}, {"Aspect": "的餛", "Opinion": "飽滿", "VA": "6.99#6.48"}, {"Aspect": "的餛", "Opinion": "感扎", "VA": "6.99#6.48"}]}
+{"ID": "R9721:S006", "Triplet": []}
+{"ID": "R9721:S005", "Triplet": []}
+{"ID": "R9721:S001", "Triplet": []}
+{"ID": "R9715:S010", "Triplet": []}
+{"ID": "R9715:S004", "Triplet": []}
+{"ID": "R9693:S006", "Triplet": []}
+{"ID": "R9687:S006", "Triplet": []}
+{"ID": "R9685:S008", "Triplet": [{"Aspect": "的關", "Opinion": "煮是", "VA": "6.55#6.02"}, {"Aspect": ",", "Opinion": "煮任", "VA": "6.48#5.97"}, {"Aspect": "的關", "Opinion": "煮", "VA": "6.55#6.02"}]}
+{"ID": "R9683:S010", "Triplet": []}
+{"ID": "R9677:S013", "Triplet": []}
+{"ID": "R9676:S005", "Triplet": []}
+{"ID": "R9675:S002", "Triplet": [{"Aspect": "膩,", "Opinion": "要是", "VA": "5.93#5.68"}]}
+{"ID": "R9667:S005", "Triplet": []}
+{"ID": "R9666:S012", "Triplet": []}
+{"ID": "R9666:S007", "Triplet": []}
+{"ID": "R9666:S003", "Triplet": []}
+{"ID": "R9663:S015", "Triplet": []}
+{"ID": "R9663:S011", "Triplet": []}
+{"ID": "R9656:S002", "Triplet": []}
+{"ID": "R9649:S005", "Triplet": []}
+{"ID": "R9645:S006", "Triplet": [{"Aspect": "是", "Opinion": "、香", "VA": "6.92#6.48"}, {"Aspect": "是", "Opinion": "齊", "VA": "6.92#6.48"}, {"Aspect": "是", "Opinion": "的排", "VA": "6.92#6.48"}, {"Aspect": "是", "Opinion": "骨", "VA": "6.92#6.48"}, {"Aspect": "是", "Opinion": ",被", "VA": "6.92#6.48"}, {"Aspect": "是", "Opinion": "焦香", "VA": "6.92#6.48"}, {"Aspect": "是", "Opinion": ",吃", "VA": "6.92#6.48"}, {"Aspect": "是", "Opinion": "起", "VA": "6.92#6.48"}]}
+{"ID": "R9643:S017", "Triplet": [{"Aspect": "的", "Opinion": "熬", "VA": "6.81#6.32"}]}
+{"ID": "R9637:S005", "Triplet": []}
+{"ID": "R9627:S008", "Triplet": []}
+{"ID": "R9620:S018", "Triplet": [{"Aspect": "味噌", "Opinion": "不", "VA": "7.05#6.62"}, {"Aspect": "味噌", "Opinion": "僅", "VA": "7.05#6.62"}, {"Aspect": "味噌", "Opinion": "配", "VA": "7.05#6.62"}, {"Aspect": "味噌", "Opinion": "料豐", "VA": "7.05#6.62"}]}
+{"ID": "R9620:S017", "Triplet": []}
+{"ID": "R9620:S016", "Triplet": []}
+{"ID": "R9614:S004", "Triplet": [{"Aspect": "O", "Opinion": "覺", "VA": "6.18#5.77"}, {"Aspect": "O", "Opinion": "得價", "VA": "6.18#5.77"}, {"Aspect": "O", "Opinion": "還算", "VA": "6.18#5.77"}, {"Aspect": "K,", "Opinion": "的", "VA": "6.18#5.75"}, {"Aspect": "K,", "Opinion": "用", "VA": "6.18#5.75"}, {"Aspect": "K,", "Opinion": "餐環", "VA": "6.18#5.75"}, {"Aspect": "K,", "Opinion": "境,", "VA": "6.18#5.75"}]}
+{"ID": "R9614:S001", "Triplet": []}
+{"ID": "R9613:S004", "Triplet": []}
+{"ID": "R9607:S027", "Triplet": []}
+{"ID": "R9604:S013", "Triplet": [{"Aspect": "惜梅", "Opinion": "來太", "VA": "4.13#5.42"}]}
+{"ID": "R9598:S013", "Triplet": [{"Aspect": "內", "Opinion": "非", "VA": "6.36#5.71"}, {"Aspect": "內", "Opinion": "亮", "VA": "6.36#5.71"}, {"Aspect": "內", "Opinion": "眼", "VA": "6.36#5.71"}, {"Aspect": "內", "Opinion": ",外", "VA": "6.36#5.71"}]}
+{"ID": "R9584:S009", "Triplet": []}
+{"ID": "R9584:S007", "Triplet": []}
+{"ID": "R9583:S012", "Triplet": [{"Aspect": "糖口", "Opinion": "味", "VA": "6.41#5.82"}]}
+{"ID": "R9583:S005", "Triplet": []}
+{"ID": "R9581:S003", "Triplet": []}
+{"ID": "R9578:S008", "Triplet": []}
+{"ID": "R9578:S002", "Triplet": [{"Aspect": "元 ", "Opinion": "或烏", "VA": "5.64#5.45"}, {"Aspect": "雞", "Opinion": "打拋", "VA": "5.61#5.45"}]}
+{"ID": "R9578:S001", "Triplet": [{"Aspect": "格", "Opinion": ",", "VA": "5.58#5.21"}, {"Aspect": "格", "Opinion": "室", "VA": "5.58#5.21"}, {"Aspect": "格", "Opinion": "內空", "VA": "5.58#5.21"}]}
+{"ID": "R9565:S005", "Triplet": []}
+{"ID": "R9563:S005", "Triplet": [{"Aspect": "其", "Opinion": "說", "VA": "6.73#6.19"}, {"Aspect": "其", "Opinion": "得酥", "VA": "6.73#6.19"}]}
+{"ID": "R9538:S009", "Triplet": [{"Aspect": "牛", "Opinion": "份量", "VA": "6.43#6.07"}, {"Aspect": "牛", "Opinion": "不", "VA": "6.43#6.07"}, {"Aspect": "牛", "Opinion": ",牛", "VA": "6.43#6.07"}, {"Aspect": "牛", "Opinion": "片", "VA": "6.43#6.07"}]}
+{"ID": "R9538:S006", "Triplet": []}
+{"ID": "R9537:S035", "Triplet": []}
+{"ID": "R9537:S029", "Triplet": []}
+{"ID": "R9537:S021", "Triplet": [{"Aspect": "0", "Opinion": ",", "VA": "6.61#6.13"}]}
+{"ID": "R9537:S020", "Triplet": [{"Aspect": "泡菜", "Opinion": "好吃", "VA": "6.44#5.76"}]}
+{"ID": "R9537:S005", "Triplet": []}
+{"ID": "R9534:S006", "Triplet": []}
+{"ID": "R9531:S008", "Triplet": []}
+{"ID": "R9528:S008", "Triplet": [{"Aspect": "鬆脆", "Opinion": "到", "VA": "6.53#5.79"}, {"Aspect": "鬆脆", "Opinion": "外", "VA": "6.53#5.79"}, {"Aspect": "鬆脆", "Opinion": "酥皮", "VA": "6.53#5.79"}, {"Aspect": "鬆脆", "Opinion": ",內", "VA": "6.53#5.79"}]}
+{"ID": "R9526:S018", "Triplet": []}
+{"ID": "R9526:S016", "Triplet": []}
+{"ID": "R9526:S005", "Triplet": []}
+{"ID": "R9526:S001", "Triplet": [{"Aspect": "調", "Opinion": "廳", "VA": "5.28#5.17"}, {"Aspect": "調", "Opinion": " ", "VA": "5.28#5.17"}]}
+{"ID": "R9525:S003", "Triplet": []}
+{"ID": "R9524:S028", "Triplet": [{"Aspect": "驚訝", "Opinion": "一", "VA": "6.69#6.51"}, {"Aspect": "驚訝", "Opinion": "咬下", "VA": "6.69#6.51"}, {"Aspect": "驚訝", "Opinion": "是果", "VA": "6.69#6.51"}, {"Aspect": "驚訝", "Opinion": "感讓", "VA": "6.69#6.51"}]}
+{"ID": "R9515:S004", "Triplet": [{"Aspect": "厲害", "Opinion": "乳也", "VA": "5.85#5.86"}]}
+{"ID": "R9509:S023", "Triplet": []}
+{"ID": "R9509:S005", "Triplet": []}
+{"ID": "R9480:S011", "Triplet": [{"Aspect": "片", "Opinion": "不", "VA": "6.31#5.75"}]}
+{"ID": "R9480:S006", "Triplet": []}
+{"ID": "R9471:S024", "Triplet": []}
+{"ID": "R9450:S021", "Triplet": []}
+{"ID": "R9450:S020", "Triplet": [{"Aspect": "的鰻", "Opinion": "口", "VA": "6.30#5.67"}, {"Aspect": "的鰻", "Opinion": "感有", "VA": "6.30#5.67"}, {"Aspect": "的鰻", "Opinion": "勁,", "VA": "6.30#5.67"}]}
+{"ID": "R9450:S014", "Triplet": []}
+{"ID": "R9450:S011", "Triplet": []}
+{"ID": "R9422:S018", "Triplet": [{"Aspect": "是羊", "Opinion": "與", "VA": "6.28#5.74"}, {"Aspect": "是羊", "Opinion": "些", "VA": "6.28#5.74"}, {"Aspect": "是羊", "Opinion": "筋", "VA": "6.28#5.74"}, {"Aspect": "是羊", "Opinion": "膜", "VA": "6.28#5.74"}, {"Aspect": "是羊", "Opinion": ",軟", "VA": "6.28#5.74"}]}
+{"ID": "R9416:S011", "Triplet": []}
+{"ID": "R9415:S002", "Triplet": []}
+{"ID": "R9398:S003", "Triplet": []}
+{"ID": "R9394:S022", "Triplet": []}
+{"ID": "R9392:S056", "Triplet": []}
+{"ID": "R9392:S050", "Triplet": []}
+{"ID": "R9384:S001", "Triplet": []}
+{"ID": "R9380:S002", "Triplet": []}
+{"ID": "R9378:S004", "Triplet": []}
+{"ID": "R9378:S001", "Triplet": [{"Aspect": "是豚", "Opinion": ",", "VA": "6.81#6.24"}, {"Aspect": "是豚", "Opinion": "很", "VA": "6.81#6.24"}, {"Aspect": "是豚", "Opinion": "香", "VA": "6.81#6.24"}, {"Aspect": "是豚", "Opinion": "醇,", "VA": "6.81#6.24"}]}
+{"ID": "R9375:S012", "Triplet": [{"Aspect": "緻", "Opinion": "的", "VA": "6.77#6.30"}, {"Aspect": "而", "Opinion": "口", "VA": "6.63#6.23"}, {"Aspect": "而", "Opinion": "味", "VA": "6.63#6.23"}, {"Aspect": "而", "Opinion": "層次", "VA": "6.63#6.23"}, {"Aspect": "而", "Opinion": "豐富", "VA": "6.63#6.23"}, {"Aspect": "而", "Opinion": ",雖", "VA": "6.63#6.23"}]}
+{"ID": "R9375:S008", "Triplet": []}
+{"ID": "R9373:S001", "Triplet": [{"Aspect": "的裝", "Opinion": "結", "VA": "5.90#5.37"}]}
+{"ID": "R9371:S010", "Triplet": [{"Aspect": "重辣", "Opinion": "勁挺", "VA": "5.16#5.27"}, {"Aspect": "重辣", "Opinion": "麻", "VA": "5.16#5.27"}, {"Aspect": "重辣", "Opinion": "感多", "VA": "5.16#5.27"}]}
+{"ID": "R9358:S006", "Triplet": []}
+{"ID": "R9356:S010", "Triplet": []}
+{"ID": "R9354:S006", "Triplet": []}
+{"ID": "R9354:S003", "Triplet": []}
+{"ID": "R9352:S000", "Triplet": [{"Aspect": ",鴨", "Opinion": ",", "VA": "6.83#6.27"}]}
+{"ID": "R9348:S050", "Triplet": []}
+{"ID": "R9348:S047", "Triplet": [{"Aspect": "的米", "Opinion": "的", "VA": "6.56#6.12"}, {"Aspect": "和油", "Opinion": "腸", "VA": "6.44#5.97"}, {"Aspect": "牌芋", "Opinion": ",份", "VA": "6.45#6.00"}]}
+{"ID": "R9348:S024", "Triplet": []}
+{"ID": "R9348:S023", "Triplet": []}
+{"ID": "R9348:S022", "Triplet": []}
+{"ID": "R9348:S010", "Triplet": []}
+{"ID": "R9345:S011", "Triplet": []}
+{"ID": "R9344:S012", "Triplet": []}
+{"ID": "R9336:S027", "Triplet": [{"Aspect": "醋", "Opinion": "飯淡", "VA": "6.30#5.67"}]}
+{"ID": "R9336:S018", "Triplet": [{"Aspect": "的醋", "Opinion": "飯超", "VA": "4.63#5.81"}]}
+{"ID": "R9332:S000", "Triplet": []}
+{"ID": "R9331:S024", "Triplet": []}
+{"ID": "R9331:S015", "Triplet": [{"Aspect": "燙青", "Opinion": "菜清", "VA": "6.02#5.65"}]}
+{"ID": "R9297:S017", "Triplet": []}
+{"ID": "R9295:S013", "Triplet": [{"Aspect": "爽蘿", "Opinion": "蔔", "VA": "6.73#6.32"}, {"Aspect": "爽蘿", "Opinion": "40", "VA": "6.73#6.32"}, {"Aspect": "元招", "Opinion": "雞翅", "VA": "6.73#6.35"}]}
+{"ID": "R9292:S010", "Triplet": []}
+{"ID": "R9292:S006", "Triplet": []}
+{"ID": "R9292:S000", "Triplet": [{"Aspect": "餐", "Opinion": "點都", "VA": "6.31#5.83"}]}
+{"ID": "R9283:S012", "Triplet": [{"Aspect": "魚", "Opinion": "鹹", "VA": "7.11#6.91"}, {"Aspect": "0這", "Opinion": "出乎", "VA": "7.11#6.91"}, {"Aspect": "魚", "Opinion": "菠菜", "VA": "7.11#6.91"}, {"Aspect": "魚", "Opinion": "鮭", "VA": "7.11#6.91"}, {"Aspect": "0這", "Opinion": "味道", "VA": "7.11#6.91"}, {"Aspect": "0這", "Opinion": "很搭", "VA": "7.11#6.91"}, {"Aspect": "0這", "Opinion": "餅皮", "VA": "7.11#6.91"}, {"Aspect": "0這", "Opinion": "又香", "VA": "7.11#6.91"}]}
+{"ID": "R9283:S011", "Triplet": [{"Aspect": "塔沒", "Opinion": "密瓜", "VA": "6.42#6.01"}, {"Aspect": ",", "Opinion": "到", "VA": "6.66#6.11"}, {"Aspect": "塔沒", "Opinion": "葡萄", "VA": "6.42#6.01"}, {"Aspect": ",", "Opinion": "塔也", "VA": "6.66#6.11"}, {"Aspect": ",", "Opinion": "很", "VA": "6.66#6.11"}, {"Aspect": ",", "Opinion": "不錯", "VA": "6.66#6.11"}, {"Aspect": ",", "Opinion": ",葡", "VA": "6.66#6.11"}]}
+{"ID": "R9283:S010", "Triplet": [{"Aspect": "郁", "Opinion": "只有", "VA": "4.95#5.49"}]}
+{"ID": "R9279:S017", "Triplet": []}
+{"ID": "R9279:S003", "Triplet": [{"Aspect": "、座", "Opinion": "線明", "VA": "5.56#5.46"}, {"Aspect": "、座", "Opinion": "位", "VA": "5.56#5.46"}, {"Aspect": "、座", "Opinion": "窗", "VA": "5.56#5.46"}, {"Aspect": "、座", "Opinion": "邊", "VA": "5.56#5.46"}, {"Aspect": "、座", "Opinion": "有", "VA": "5.56#5.46"}, {"Aspect": "、座", "Opinion": "光,", "VA": "5.56#5.46"}, {"Aspect": "、座", "Opinion": "沙", "VA": "5.56#5.46"}, {"Aspect": "、座", "Opinion": "發", "VA": "5.56#5.46"}, {"Aspect": "、座", "Opinion": "區", "VA": "5.56#5.46"}, {"Aspect": "、座", "Opinion": ",超", "VA": "5.56#5.46"}, {"Aspect": "、座", "Opinion": "曬", "VA": "5.56#5.46"}, {"Aspect": "、座", "Opinion": "到受", "VA": "5.56#5.46"}]}
+{"ID": "R9278:S015", "Triplet": []}
+{"ID": "R9274:S010", "Triplet": []}
+{"ID": "R9270:S012", "Triplet": []}
+{"ID": "R9268:S019", "Triplet": [{"Aspect": "塊的", "Opinion": "肉質", "VA": "6.56#6.05"}, {"Aspect": "塊的", "Opinion": "更", "VA": "6.56#6.05"}, {"Aspect": "塊的", "Opinion": "為", "VA": "6.56#6.05"}, {"Aspect": "塊的", "Opinion": "軟嫩", "VA": "6.56#6.05"}, {"Aspect": ",", "Opinion": ",", "VA": "6.57#6.07"}, {"Aspect": "塊的", "Opinion": "汁氣", "VA": "6.56#6.05"}, {"Aspect": "塊的", "Opinion": "得", "VA": "6.56#6.05"}, {"Aspect": "塊的", "Opinion": "多", "VA": "6.56#6.05"}, {"Aspect": ",", "Opinion": ",", "VA": "6.57#6.07"}, {"Aspect": "塊的", "Opinion": "甘", "VA": "6.56#6.05"}, {"Aspect": "塊的", "Opinion": "甜", "VA": "6.56#6.05"}, {"Aspect": "塊的", "Opinion": "可口", "VA": "6.56#6.05"}, {"Aspect": "塊的", "Opinion": ",香", "VA": "6.56#6.05"}]}
+{"ID": "R9265:S006", "Triplet": []}
+{"ID": "R9265:S003", "Triplet": []}
+{"ID": "R9261:S008", "Triplet": []}
+{"ID": "R9260:S001", "Triplet": []}
+{"ID": "R9256:S006", "Triplet": []}
+{"ID": "R9254:S010", "Triplet": [{"Aspect": "的", "Opinion": "西都", "VA": "6.55#5.95"}, {"Aspect": "的", "Opinion": "好吃", "VA": "6.55#5.95"}]}
+{"ID": "R9254:S000", "Triplet": []}
+{"ID": "R9252:S003", "Triplet": []}
+{"ID": "R9252:S001", "Triplet": [{"Aspect": "的", "Opinion": "口", "VA": "6.04#6.01"}, {"Aspect": "的", "Opinion": "感", "VA": "6.04#6.01"}]}
+{"ID": "R9249:S002", "Triplet": []}
+{"ID": "R9243:S004", "Triplet": [{"Aspect": "雞早", "Opinion": "煎到", "VA": "6.53#6.19"}]}
+{"ID": "R9241:S021", "Triplet": []}
+{"ID": "R9237:S000", "Triplet": []}
+{"ID": "R9235:S012", "Triplet": []}
+{"ID": "R9233:S034", "Triplet": []}
+{"ID": "R9228:S024", "Triplet": [{"Aspect": "款", "Opinion": "我", "VA": "6.09#5.47"}, {"Aspect": "款", "Opinion": "的薯", "VA": "6.09#5.47"}, {"Aspect": "款", "Opinion": "拉", "VA": "6.09#5.47"}, {"Aspect": "款", "Opinion": "(鬆", "VA": "6.09#5.47"}]}
+{"ID": "R9211:S000", "Triplet": [{"Aspect": "吃老", "Opinion": "也很", "VA": "6.78#6.30"}]}
+{"ID": "R9209:S000", "Triplet": [{"Aspect": "這", "Opinion": "肉實", "VA": "6.24#6.59"}]}
+{"ID": "R9208:S000", "Triplet": [{"Aspect": "會", "Opinion": "堡不", "VA": "6.42#5.77"}, {"Aspect": "會", "Opinion": "乾肉", "VA": "6.42#5.77"}, {"Aspect": "會", "Opinion": "嫩多", "VA": "6.42#5.77"}]}
+{"ID": "R9201:S000", "Triplet": [{"Aspect": "的牛", "Opinion": "肉多", "VA": "6.44#5.75"}, {"Aspect": ",", "Opinion": "望青", "VA": "6.48#5.91"}]}
+{"ID": "R9197:S000", "Triplet": []}
+{"ID": "R9196:S000", "Triplet": []}
+{"ID": "R9171:S000", "Triplet": [{"Aspect": "在", "Opinion": "漢", "VA": "6.78#6.47"}, {"Aspect": "附", "Opinion": "近的", "VA": "6.77#6.44"}, {"Aspect": "附", "Opinion": "立", "VA": "6.77#6.44"}, {"Aspect": "附", "Opinion": "雞群", "VA": "6.77#6.44"}, {"Aspect": "附", "Opinion": "業主", "VA": "6.77#6.44"}]}
+{"ID": "R9164:S000", "Triplet": []}
+{"ID": "R9158:S000", "Triplet": []}
+{"ID": "R9135:S000", "Triplet": [{"Aspect": "堡麵", "Opinion": "包", "VA": "6.85#6.43"}, {"Aspect": "堡麵", "Opinion": "很香", "VA": "6.85#6.43"}, {"Aspect": "還", "Opinion": "好吃", "VA": "6.97#6.60"}]}
+{"ID": "R9114:S000", "Triplet": [{"Aspect": ",店", "Opinion": "物好", "VA": "6.42#5.90"}, {"Aspect": ",店", "Opinion": "吃好", "VA": "6.42#5.90"}, {"Aspect": ",店", "Opinion": "還不", "VA": "6.42#5.90"}]}
+{"ID": "R9107:S000", "Triplet": [{"Aspect": "好處", "Opinion": "烤得", "VA": "6.88#6.54"}, {"Aspect": "好處", "Opinion": ",鮮", "VA": "6.88#6.54"}]}
+{"ID": "R9096:S000", "Triplet": [{"Aspect": "漢", "Opinion": "堡有", "VA": "3.72#5.97"}, {"Aspect": "漢", "Opinion": "是", "VA": "3.72#5.97"}, {"Aspect": "漢", "Opinion": "反應", "VA": "3.72#5.97"}, {"Aspect": "為", "Opinion": "堡不", "VA": "3.94#5.83"}, {"Aspect": "漢", "Opinion": "家", "VA": "3.72#5.97"}]}
+{"ID": "R9092:S000", "Triplet": [{"Aspect": "家店", "Opinion": "堡", "VA": "7.19#6.85"}, {"Aspect": "家店", "Opinion": ",是", "VA": "7.19#6.85"}, {"Aspect": "家店", "Opinion": "新竹", "VA": "7.19#6.85"}, {"Aspect": "頂", "Opinion": "目", "VA": "7.54#7.21"}, {"Aspect": "頂", "Opinion": "前吃", "VA": "7.54#7.21"}, {"Aspect": "頂", "Opinion": "過最", "VA": "7.54#7.21"}, {"Aspect": "家店", "Opinion": "的", "VA": "7.19#6.85"}, {"Aspect": "頂", "Opinion": "而", "VA": "7.54#7.21"}, {"Aspect": "頂", "Opinion": "且醬", "VA": "7.54#7.21"}]}
+{"ID": "R9054:S000", "Triplet": [{"Aspect": "良", "Opinion": "星優", "VA": "6.55#5.90"}, {"Aspect": "店家", "Opinion": "西好", "VA": "6.49#5.78"}, {"Aspect": "店家", "Opinion": ",店", "VA": "6.49#5.78"}, {"Aspect": "店家", "Opinion": "家", "VA": "6.49#5.78"}]}
+{"ID": "R9043:S000", "Triplet": [{"Aspect": "肉堡", "Opinion": "堡", "VA": "6.38#5.71"}, {"Aspect": "汁不", "Opinion": "的肉", "VA": "6.30#5.61"}]}
+{"ID": "R9042:S000", "Triplet": []}
+{"ID": "R9024:S000", "Triplet": []}
+{"ID": "R9008:S000", "Triplet": [{"Aspect": "家", "Opinion": "味", "VA": "4.99#5.44"}]}
+{"ID": "R8998:S000", "Triplet": [{"Aspect": "黑櫻", "Opinion": "桃", "VA": "6.73#6.18"}]}
+{"ID": "R8990:S000", "Triplet": [{"Aspect": "堡的", "Opinion": "茶不", "VA": "5.95#5.76"}, {"Aspect": "堡的", "Opinion": ",偏", "VA": "5.95#5.76"}, {"Aspect": "堡的", "Opinion": "肉", "VA": "5.95#5.76"}, {"Aspect": "明顯", "Opinion": "醬不", "VA": "5.21#5.37"}, {"Aspect": "明顯", "Opinion": "不過", "VA": "5.21#5.37"}]}
+{"ID": "R8979:S001", "Triplet": []}
+{"ID": "R8975:S004", "Triplet": []}
+{"ID": "R8961:S000", "Triplet": [{"Aspect": "色", "Opinion": "堡", "VA": "6.54#6.09"}, {"Aspect": "色", "Opinion": "堡", "VA": "6.54#6.09"}, {"Aspect": "色", "Opinion": "肉", "VA": "6.54#6.09"}, {"Aspect": "足", "Opinion": "質都", "VA": "6.60#6.20"}, {"Aspect": "色", "Opinion": "堡", "VA": "6.54#6.09"}, {"Aspect": "足", "Opinion": "皮", "VA": "6.60#6.20"}, {"Aspect": "足", "Opinion": "也都", "VA": "6.60#6.20"}, {"Aspect": "足", "Opinion": "紅茶", "VA": "6.60#6.20"}, {"Aspect": "足", "Opinion": "不甜", "VA": "6.60#6.20"}, {"Aspect": "足", "Opinion": "薯條", "VA": "6.60#6.20"}, {"Aspect": "足", "Opinion": "整體", "VA": "6.60#6.20"}, {"Aspect": "足", "Opinion": "而", "VA": "6.60#6.20"}, {"Aspect": "足", "Opinion": "言", "VA": "6.60#6.20"}, {"Aspect": "足", "Opinion": "好吃", "VA": "6.60#6.20"}, {"Aspect": "足", "Opinion": "價格", "VA": "6.60#6.20"}]}
+{"ID": "R8954:S004", "Triplet": []}
+{"ID": "R8949:S000", "Triplet": [{"Aspect": ",", "Opinion": ",", "VA": "4.86#5.19"}, {"Aspect": "有", "Opinion": "凸出", "VA": "4.91#5.19"}, {"Aspect": ",", "Opinion": ",", "VA": "4.86#5.19"}, {"Aspect": "肉", "Opinion": "漢堡", "VA": "5.50#5.24"}]}
+{"ID": "R8943:S000", "Triplet": [{"Aspect": "露", "Opinion": "蒜", "VA": "6.47#5.86"}, {"Aspect": "菇", "Opinion": "味", "VA": "6.60#6.08"}, {"Aspect": "菇", "Opinion": "奶", "VA": "6.60#6.08"}, {"Aspect": "菇", "Opinion": ",松", "VA": "6.60#6.08"}, {"Aspect": "濃", "Opinion": "香", "VA": "6.25#5.55"}, {"Aspect": "濃", "Opinion": "氣", "VA": "6.25#5.55"}, {"Aspect": "膩,", "Opinion": "排真", "VA": "6.16#5.49"}]}
+{"ID": "R8941:S000", "Triplet": [{"Aspect": "店裝", "Opinion": "潢很", "VA": "6.46#6.03"}, {"Aspect": "店裝", "Opinion": "種", "VA": "6.46#6.03"}]}
+{"ID": "R8931:S000", "Triplet": [{"Aspect": "的", "Opinion": "接", "VA": "7.12#6.77"}, {"Aspect": "的", "Opinion": ",花", "VA": "7.12#6.77"}, {"Aspect": "的", "Opinion": "生", "VA": "7.12#6.77"}, {"Aspect": "的", "Opinion": "豬是", "VA": "7.12#6.77"}, {"Aspect": "的", "Opinion": "生", "VA": "7.12#6.77"}]}
+{"ID": "R8920:S000", "Triplet": [{"Aspect": "這", "Opinion": "也", "VA": "5.49#5.69"}]}
+{"ID": "R8899:S000", "Triplet": []}
+{"ID": "R8881:S000", "Triplet": []}
+{"ID": "R8868:S000", "Triplet": []}
+{"ID": "R8835:S000", "Triplet": []}
+{"ID": "R8815:S000", "Triplet": [{"Aspect": "不錯", "Opinion": "很", "VA": "6.28#6.13"}]}
+{"ID": "R8809:S000", "Triplet": [{"Aspect": "淨", "Opinion": "環", "VA": "3.89#5.53"}, {"Aspect": "淨", "Opinion": "境髒", "VA": "3.89#5.53"}]}
+{"ID": "R8807:S000", "Triplet": [{"Aspect": "少", "Opinion": "哩醬", "VA": "4.82#5.06"}]}
+{"ID": "R8803:S000", "Triplet": [{"Aspect": "是蓋", "Opinion": "風", "VA": "5.16#5.48"}]}
+{"ID": "R8799:S000", "Triplet": [{"Aspect": "來,", "Opinion": "皮吃", "VA": "6.93#6.71"}]}
+{"ID": "R8751:S000", "Triplet": [{"Aspect": "合生", "Opinion": "結", "VA": "3.96#5.62"}, {"Aspect": "合生", "Opinion": "果吃", "VA": "3.96#5.62"}, {"Aspect": "合生", "Opinion": "起", "VA": "3.96#5.62"}, {"Aspect": "合生", "Opinion": "來是", "VA": "3.96#5.62"}]}
+{"ID": "R8743:S000", "Triplet": []}
+{"ID": "R8738:S000", "Triplet": []}
+{"ID": "R8691:S000", "Triplet": [{"Aspect": ":3", "Opinion": "燒肉", "VA": "6.52#6.06"}]}
+{"ID": "R8672:S000", "Triplet": []}
+{"ID": "R8662:S000", "Triplet": [{"Aspect": "贈的", "Opinion": "噌", "VA": "7.23#6.94"}, {"Aspect": "贈的", "Opinion": "湯超", "VA": "7.23#6.94"}, {"Aspect": "贈的", "Opinion": "好喝", "VA": "7.23#6.94"}]}
+{"ID": "R8616:S000", "Triplet": [{"Aspect": "的", "Opinion": "不", "VA": "6.32#6.32"}, {"Aspect": "的", "Opinion": "全", "VA": "6.32#6.32"}, {"Aspect": "的", "Opinion": "油", "VA": "6.32#6.32"}]}
+{"ID": "R8572:S003", "Triplet": []}
+{"ID": "R8570:S000", "Triplet": [{"Aspect": "濃郁", "Opinion": ",", "VA": "5.94#5.32"}, {"Aspect": "濃郁", "Opinion": "咖", "VA": "5.94#5.32"}, {"Aspect": "濃郁", "Opinion": "喱雞", "VA": "5.94#5.32"}, {"Aspect": "濃郁", "Opinion": "腿", "VA": "5.94#5.32"}, {"Aspect": "濃郁", "Opinion": "好吃", "VA": "5.94#5.32"}, {"Aspect": "濃郁", "Opinion": ",咖", "VA": "5.94#5.32"}, {"Aspect": "濃郁", "Opinion": "喱", "VA": "5.94#5.32"}, {"Aspect": "會太", "Opinion": "稀", "VA": "5.81#5.45"}, {"Aspect": "會太", "Opinion": ",雞", "VA": "5.81#5.45"}, {"Aspect": "嫩", "Opinion": "皮", "VA": "5.95#5.33"}, {"Aspect": "嫩", "Opinion": "脆,", "VA": "5.95#5.33"}, {"Aspect": "麗菜", "Opinion": "員", "VA": "5.98#5.49"}, {"Aspect": "麗菜", "Opinion": "都是", "VA": "5.98#5.49"}]}
+{"ID": "R8505:S000", "Triplet": []}
+{"ID": "R8457:S000", "Triplet": [{"Aspect": ",", "Opinion": "點好", "VA": "6.31#5.58"}, {"Aspect": "配菜", "Opinion": "安", "VA": "6.22#5.54"}, {"Aspect": "鮮主", "Opinion": "多", "VA": "6.32#5.59"}]}
+{"ID": "R8448:S000", "Triplet": []}
+{"ID": "R8435:S000", "Triplet": [{"Aspect": "錯,", "Opinion": "裡", "VA": "5.28#5.95"}]}
+{"ID": "R8434:S000", "Triplet": [{"Aspect": "推", "Opinion": "薦", "VA": "6.87#6.42"}, {"Aspect": "推", "Opinion": ",雞", "VA": "6.87#6.42"}, {"Aspect": "推", "Opinion": "腿炸", "VA": "6.87#6.42"}, {"Aspect": "推", "Opinion": "的酥", "VA": "6.87#6.42"}, {"Aspect": "推", "Opinion": "酥脆", "VA": "6.87#6.42"}]}
+{"ID": "R8431:S000", "Triplet": [{"Aspect": "控肉", "Opinion": "算", "VA": "6.53#5.90"}, {"Aspect": "控肉", "Opinion": "是好", "VA": "6.53#5.90"}, {"Aspect": "控肉", "Opinion": "!", "VA": "6.53#5.90"}, {"Aspect": "控肉", "Opinion": "裡", "VA": "6.53#5.90"}]}
+{"ID": "R8415:S000", "Triplet": [{"Aspect": "當好", "Opinion": "豬有", "VA": "6.93#6.62"}]}
+{"ID": "R8410:S000", "Triplet": []}
+{"ID": "R8408:S000", "Triplet": []}
+{"ID": "R8399:S000", "Triplet": [{"Aspect": "適", "Opinion": "肥瘦", "VA": "6.34#5.80"}, {"Aspect": "會油", "Opinion": "奶也", "VA": "6.23#5.65"}]}
+{"ID": "R8396:S000", "Triplet": [{"Aspect": "偏", "Opinion": "物", "VA": "5.75#5.45"}, {"Aspect": "偏", "Opinion": "乾淨", "VA": "5.75#5.45"}, {"Aspect": "偏", "Opinion": "!", "VA": "5.75#5.45"}, {"Aspect": "偏", "Opinion": "點現", "VA": "5.75#5.45"}, {"Aspect": "偏", "Opinion": ",", "VA": "5.75#5.45"}, {"Aspect": "偏", "Opinion": "味", "VA": "5.75#5.45"}, {"Aspect": "偏", "Opinion": "口", "VA": "5.75#5.45"}, {"Aspect": "偏", "Opinion": "味", "VA": "5.75#5.45"}, {"Aspect": "偏", "Opinion": ",內", "VA": "5.75#5.45"}, {"Aspect": "偏", "Opinion": "飯量", "VA": "5.75#5.45"}]}
+{"ID": "R8386:S002", "Triplet": []}
+{"ID": "R8385:S002", "Triplet": [{"Aspect": "和", "Opinion": "雞都", "VA": "6.48#5.84"}]}
+{"ID": "R8376:S000", "Triplet": [{"Aspect": ",", "Opinion": "了不", "VA": "6.16#5.93"}]}
+{"ID": "R8375:S001", "Triplet": []}
+{"ID": "R8373:S000", "Triplet": []}
+{"ID": "R8368:S000", "Triplet": []}
+{"ID": "R8366:S001", "Triplet": [{"Aspect": "下", "Opinion": "就很", "VA": "6.65#6.14"}, {"Aspect": "下", "Opinion": "很", "VA": "6.65#6.14"}, {"Aspect": "下", "Opinion": ",椒", "VA": "6.65#6.14"}, {"Aspect": "下", "Opinion": "麻", "VA": "6.65#6.14"}, {"Aspect": "下", "Opinion": "雞也", "VA": "6.65#6.14"}]}
+{"ID": "R8364:S000", "Triplet": []}
+{"ID": "R8347:S000", "Triplet": [{"Aspect": ",雞", "Opinion": "肉", "VA": "7.01#6.65"}]}
+{"ID": "R8339:S000", "Triplet": [{"Aspect": "不", "Opinion": "後很", "VA": "3.93#5.76"}, {"Aspect": "不", "Opinion": "奶", "VA": "3.93#5.76"}, {"Aspect": "不", "Opinion": ",", "VA": "3.93#5.76"}, {"Aspect": "餐環", "Opinion": "境", "VA": "5.74#5.67"}, {"Aspect": "錯", "Opinion": "價", "VA": "4.35#5.77"}, {"Aspect": "合", "Opinion": "格", "VA": "4.57#5.69"}]}
+{"ID": "R8338:S000", "Triplet": [{"Aspect": "雞", "Opinion": "腿", "VA": "6.30#5.69"}, {"Aspect": "雞", "Opinion": "飯好", "VA": "6.30#5.69"}, {"Aspect": "嫩", "Opinion": "腿肉", "VA": "6.26#5.66"}, {"Aspect": "嫩", "Opinion": "多汁", "VA": "6.26#5.66"}, {"Aspect": "其", "Opinion": "脆皮", "VA": "6.24#5.67"}, {"Aspect": "其", "Opinion": "類", "VA": "6.24#5.67"}, {"Aspect": "其", "Opinion": "似", "VA": "6.24#5.67"}, {"Aspect": "其", "Opinion": "脆皮", "VA": "6.24#5.67"}, {"Aspect": "雞", "Opinion": "雞", "VA": "6.30#5.69"}, {"Aspect": "其", "Opinion": "排,", "VA": "6.24#5.67"}]}
+{"ID": "R8332:S000", "Triplet": []}
+{"ID": "R8327:S000", "Triplet": []}
+{"ID": "R8324:S000", "Triplet": [{"Aspect": "福", "Opinion": "平凡", "VA": "6.54#5.95"}, {"Aspect": "福", "Opinion": "中幸", "VA": "6.54#5.95"}, {"Aspect": "福", "Opinion": "午", "VA": "6.54#5.95"}, {"Aspect": "福", "Opinion": "餐久", "VA": "6.54#5.95"}]}
+{"ID": "R8308:S000", "Triplet": []}
+{"ID": "R8305:S000", "Triplet": []}
+{"ID": "R8280:S000", "Triplet": []}
+{"ID": "R8267:S001", "Triplet": [{"Aspect": "肉", "Opinion": "滿大", "VA": "6.22#5.80"}, {"Aspect": "微脆", "Opinion": ",皮", "VA": "5.98#5.48"}]}
+{"ID": "R8266:S000", "Triplet": [{"Aspect": "什", "Opinion": "蛋好", "VA": "5.45#5.62"}, {"Aspect": "什", "Opinion": ",", "VA": "5.45#5.62"}, {"Aspect": "辣", "Opinion": ",偏", "VA": "5.03#5.27"}, {"Aspect": "辣", "Opinion": "酸", "VA": "5.03#5.27"}, {"Aspect": "辣", "Opinion": "甜", "VA": "5.03#5.27"}, {"Aspect": "辣", "Opinion": ",皮", "VA": "5.03#5.27"}, {"Aspect": "辣", "Opinion": "很酥", "VA": "5.03#5.27"}]}
+{"ID": "R8258:S003", "Triplet": []}
+{"ID": "R8250:S000", "Triplet": [{"Aspect": "雞", "Opinion": "包", "VA": "6.63#6.15"}, {"Aspect": "雞", "Opinion": "!椒", "VA": "6.63#6.15"}, {"Aspect": "雞", "Opinion": "麻雞", "VA": "6.63#6.15"}, {"Aspect": "雞", "Opinion": "圖", "VA": "6.63#6.15"}, {"Aspect": "雞", "Opinion": "說~", "VA": "6.63#6.15"}]}
+{"ID": "R8239:S004", "Triplet": []}
+{"ID": "R8239:S002", "Triplet": []}
+{"ID": "R8233:S003", "Triplet": []}
+{"ID": "R8203:S000", "Triplet": []}
+{"ID": "R8187:S000", "Triplet": []}
+{"ID": "R8089:S000", "Triplet": []}
+{"ID": "R8081:S000", "Triplet": [{"Aspect": "這間", "Opinion": "!", "VA": "7.28#7.07"}]}
+{"ID": "R8006:S000", "Triplet": [{"Aspect": "重", "Opinion": "境舒", "VA": "6.81#6.30"}, {"Aspect": "重", "Opinion": "點", "VA": "6.81#6.30"}]}
+{"ID": "R7999:S000", "Triplet": [{"Aspect": "多", "Opinion": "肉好", "VA": "6.32#5.57"}, {"Aspect": "多", "Opinion": ",", "VA": "6.32#5.57"}, {"Aspect": "柴,", "Opinion": "歸湯", "VA": "6.24#5.60"}]}
+{"ID": "R7984:S000", "Triplet": [{"Aspect": "油", "Opinion": "鴨", "VA": "6.00#5.20"}, {"Aspect": "油", "Opinion": "麵", "VA": "6.00#5.20"}, {"Aspect": "油", "Opinion": "線清", "VA": "6.00#5.20"}, {"Aspect": "油", "Opinion": "膩", "VA": "6.00#5.20"}, {"Aspect": "油", "Opinion": "環", "VA": "6.00#5.20"}, {"Aspect": "油", "Opinion": "境清", "VA": "6.00#5.20"}]}
+{"ID": "R7965:S000", "Triplet": [{"Aspect": "大", "Opinion": ",大", "VA": "6.57#6.04"}]}
+{"ID": "R7944:S000", "Triplet": [{"Aspect": "鴨肉", "Opinion": "材大", "VA": "6.20#5.46"}, {"Aspect": "鴨肉", "Opinion": "塊不", "VA": "6.20#5.46"}]}
+{"ID": "R7933:S004", "Triplet": [{"Aspect": "切(", "Opinion": "啊⋯", "VA": "6.69#6.38"}, {"Aspect": "切(", "Opinion": "肉質", "VA": "6.69#6.38"}]}
+{"ID": "R7898:S000", "Triplet": [{"Aspect": "小", "Opinion": "非常", "VA": "6.47#6.07"}, {"Aspect": "小", "Opinion": ",食", "VA": "6.47#6.07"}, {"Aspect": "小", "Opinion": "量", "VA": "6.47#6.07"}]}
+{"ID": "R7871:S001", "Triplet": []}
+{"ID": "R7845:S000", "Triplet": [{"Aspect": "貴炒", "Opinion": "格不", "VA": "6.00#5.48"}, {"Aspect": "會", "Opinion": "明", "VA": "6.07#5.61"}]}
+{"ID": "R7840:S000", "Triplet": [{"Aspect": "重", "Opinion": "、飯", "VA": "6.06#5.51"}]}
+{"ID": "R7813:S000", "Triplet": []}
+{"ID": "R7800:S000", "Triplet": [{"Aspect": "卵", "Opinion": "、", "VA": "6.54#5.95"}, {"Aspect": "卵", "Opinion": "黃", "VA": "6.54#5.95"}, {"Aspect": "卵", "Opinion": "色", "VA": "6.54#5.95"}, {"Aspect": "卵", "Opinion": "的卵", "VA": "6.54#5.95"}, {"Aspect": "卵", "Opinion": "都有", "VA": "6.54#5.95"}, {"Aspect": "卵", "Opinion": "鹹很", "VA": "6.54#5.95"}]}
+{"ID": "R7764:S000", "Triplet": [{"Aspect": "分明", "Opinion": ",飯", "VA": "6.57#6.15"}, {"Aspect": "分明", "Opinion": "意", "VA": "6.57#6.15"}, {"Aspect": "的", "Opinion": ",要", "VA": "6.56#6.26"}, {"Aspect": "讓", "Opinion": "點", "VA": "6.66#6.33"}, {"Aspect": "讓", "Opinion": ",但", "VA": "6.66#6.33"}, {"Aspect": "的是", "Opinion": "蛤", "VA": "6.58#6.28"}, {"Aspect": "的是", "Opinion": "蜊湯", "VA": "6.58#6.28"}, {"Aspect": "肉", "Opinion": "顆", "VA": "6.56#6.16"}, {"Aspect": "肉", "Opinion": "都很", "VA": "6.56#6.16"}, {"Aspect": "肉", "Opinion": "湯頭", "VA": "6.56#6.16"}]}
+{"ID": "R7763:S001", "Triplet": [{"Aspect": "及蛤", "Opinion": "湯", "VA": "6.81#6.39"}, {"Aspect": "及蛤", "Opinion": ",", "VA": "6.81#6.39"}, {"Aspect": "及蛤", "Opinion": "香", "VA": "6.81#6.39"}, {"Aspect": "及蛤", "Opinion": "味撲", "VA": "6.81#6.39"}, {"Aspect": "及蛤", "Opinion": ",炒", "VA": "6.81#6.39"}, {"Aspect": "及蛤", "Opinion": "飯粒", "VA": "6.81#6.39"}]}
+{"ID": "R7748:S000", "Triplet": []}
+{"ID": "R7719:S000", "Triplet": [{"Aspect": "的炒", "Opinion": "!", "VA": "7.33#7.02"}]}
+{"ID": "R7711:S003", "Triplet": []}
+{"ID": "R7701:S000", "Triplet": [{"Aspect": "55", "Opinion": "的", "VA": "5.56#5.51"}, {"Aspect": "是相", "Opinion": "對", "VA": "5.71#5.60"}, {"Aspect": "是相", "Opinion": "起", "VA": "5.71#5.60"}, {"Aspect": "是相", "Opinion": "價錢", "VA": "5.71#5.60"}, {"Aspect": "不會", "Opinion": "是吃", "VA": "5.79#5.52"}, {"Aspect": "不會", "Opinion": "到後", "VA": "5.79#5.52"}, {"Aspect": "55", "Opinion": "的", "VA": "5.56#5.51"}, {"Aspect": "55", "Opinion": "炒飯", "VA": "5.56#5.51"}, {"Aspect": "不會", "Opinion": "要", "VA": "5.79#5.52"}, {"Aspect": "不會", "Opinion": "花1", "VA": "5.79#5.52"}]}
+{"ID": "R7680:S004", "Triplet": [{"Aspect": "色", "Opinion": "飯", "VA": "6.26#5.55"}, {"Aspect": "色", "Opinion": ",", "VA": "6.26#5.55"}, {"Aspect": "美", "Opinion": "、香", "VA": "6.30#5.63"}, {"Aspect": "色", "Opinion": "炒飯", "VA": "6.26#5.55"}]}
+{"ID": "R7665:S000", "Triplet": [{"Aspect": "有鍋", "Opinion": "西好", "VA": "6.11#5.61"}, {"Aspect": "有鍋", "Opinion": "氣的", "VA": "6.11#5.61"}, {"Aspect": "有鍋", "Opinion": "感", "VA": "6.11#5.61"}, {"Aspect": "有鍋", "Opinion": "覺,", "VA": "6.11#5.61"}]}
+{"ID": "R7653:S012", "Triplet": []}
+{"ID": "R7648:S000", "Triplet": [{"Aspect": "加", "Opinion": "串卻", "VA": "4.08#5.53"}, {"Aspect": "細", "Opinion": "牙籤", "VA": "4.11#5.50"}, {"Aspect": "細", "Opinion": "的", "VA": "4.11#5.50"}, {"Aspect": "加", "Opinion": "肉", "VA": "4.08#5.53"}, {"Aspect": "細", "Opinion": "乾,", "VA": "4.11#5.50"}, {"Aspect": "細", "Opinion": "乾又", "VA": "4.11#5.50"}, {"Aspect": "細", "Opinion": "來", "VA": "4.11#5.50"}, {"Aspect": "細", "Opinion": "說根", "VA": "4.11#5.50"}, {"Aspect": "細", "Opinion": "不飽", "VA": "4.11#5.50"}, {"Aspect": "細", "Opinion": "=", "VA": "4.11#5.50"}, {"Aspect": "細", "Opinion": "完", "VA": "4.11#5.50"}, {"Aspect": "細", "Opinion": "無", "VA": "4.11#5.50"}]}
+{"ID": "R7646:S000", "Triplet": [{"Aspect": "MA", "Opinion": "(", "VA": "7.17#7.02"}, {"Aspect": "摩", "Opinion": ")", "VA": "7.27#7.13"}, {"Aspect": "摩", "Opinion": "摩", "VA": "7.27#7.13"}, {"Aspect": "MA", "Opinion": "(", "VA": "7.17#7.02"}, {"Aspect": "摩", "Opinion": "$", "VA": "7.27#7.13"}, {"Aspect": ")麵", "Opinion": "70", "VA": "6.64#6.54"}, {"Aspect": ")麵", "Opinion": "是一", "VA": "6.64#6.54"}]}
+{"ID": "R7636:S000", "Triplet": [{"Aspect": "平", "Opinion": "單好", "VA": "6.12#5.65"}, {"Aspect": "平", "Opinion": "點", "VA": "6.12#5.65"}, {"Aspect": "平", "Opinion": ",", "VA": "6.12#5.65"}, {"Aspect": "平", "Opinion": "價", "VA": "6.12#5.65"}, {"Aspect": "平", "Opinion": "位", "VA": "6.12#5.65"}, {"Aspect": "平", "Opinion": ",但", "VA": "6.12#5.65"}]}
+{"ID": "R7635:S000", "Triplet": []}
+{"ID": "R7586:S000", "Triplet": [{"Aspect": "時生", "Opinion": "意很", "VA": "6.80#6.39"}, {"Aspect": "時生", "Opinion": "~~", "VA": "6.80#6.39"}, {"Aspect": "時生", "Opinion": "哩超", "VA": "6.80#6.39"}]}
+{"ID": "R7570:S000", "Triplet": []}
+{"ID": "R7568:S000", "Triplet": []}
+{"ID": "R7567:S000", "Triplet": [{"Aspect": "乾", "Opinion": "境溫", "VA": "5.96#5.47"}, {"Aspect": "淨裝", "Opinion": "潢", "VA": "5.99#5.46"}, {"Aspect": "淨裝", "Opinion": "有", "VA": "5.99#5.46"}, {"Aspect": "服", "Opinion": "普", "VA": "5.87#5.46"}, {"Aspect": "服", "Opinion": "(", "VA": "5.87#5.46"}, {"Aspect": "服", "Opinion": "椒", "VA": "5.87#5.46"}, {"Aspect": "服", "Opinion": "麻雞", "VA": "5.87#5.46"}, {"Aspect": "服", "Opinion": "麵味", "VA": "5.87#5.46"}]}
+{"ID": "R7545:S000", "Triplet": [{"Aspect": "錯", "Opinion": "AM", "VA": "6.01#5.84"}]}
+{"ID": "R7534:S001", "Triplet": []}
+{"ID": "R7498:S000", "Triplet": [{"Aspect": "但", "Opinion": "起來", "VA": "5.77#5.69"}, {"Aspect": "但", "Opinion": "的", "VA": "5.77#5.69"}, {"Aspect": "但", "Opinion": ",", "VA": "5.77#5.69"}, {"Aspect": "但", "Opinion": "價", "VA": "5.77#5.69"}, {"Aspect": "但", "Opinion": "位", "VA": "5.77#5.69"}, {"Aspect": "但", "Opinion": "平價", "VA": "5.77#5.69"}, {"Aspect": "驚艷", "Opinion": "一", "VA": "5.25#5.61"}, {"Aspect": "驚艷", "Opinion": "點,", "VA": "5.25#5.61"}, {"Aspect": "驚艷", "Opinion": "料還", "VA": "5.25#5.61"}, {"Aspect": "驚艷", "Opinion": ",沒", "VA": "5.25#5.61"}, {"Aspect": "驚艷", "Opinion": ",白", "VA": "5.25#5.61"}, {"Aspect": "驚艷", "Opinion": "牛湯", "VA": "5.25#5.61"}]}
+{"ID": "R7472:S000", "Triplet": []}
+{"ID": "R7469:S000", "Triplet": []}
+{"ID": "R7455:S004", "Triplet": []}
+{"ID": "R7450:S000", "Triplet": [{"Aspect": "乾淨", "Opinion": "裡舒", "VA": "6.44#5.97"}, {"Aspect": "乾淨", "Opinion": "員", "VA": "6.44#5.97"}, {"Aspect": "乾淨", "Opinion": "泡", "VA": "6.44#5.97"}, {"Aspect": "乾淨", "Opinion": "麵很", "VA": "6.44#5.97"}, {"Aspect": "乾淨", "Opinion": "好", "VA": "6.44#5.97"}, {"Aspect": "乾淨", "Opinion": "吃夠", "VA": "6.44#5.97"}, {"Aspect": "乾淨", "Opinion": "夠辣", "VA": "6.44#5.97"}]}
+{"ID": "R7435:S000", "Triplet": []}
+{"ID": "R7434:S000", "Triplet": [{"Aspect": "跟綠", "Opinion": "奶好", "VA": "6.56#5.97"}, {"Aspect": "跟綠", "Opinion": "那", "VA": "6.56#5.97"}, {"Aspect": "跟綠", "Opinion": "個麵", "VA": "6.56#5.97"}, {"Aspect": "可加", "Opinion": "香", "VA": "6.38#5.91"}, {"Aspect": "可加", "Opinion": "但份", "VA": "6.38#5.91"}, {"Aspect": "可加", "Opinion": "蔭", "VA": "6.38#5.91"}, {"Aspect": "可加", "Opinion": "功湯", "VA": "6.38#5.91"}, {"Aspect": "可加", "Opinion": "只", "VA": "6.38#5.91"}, {"Aspect": "可加", "Opinion": "有", "VA": "6.38#5.91"}, {"Aspect": "可加", "Opinion": "辣味", "VA": "6.38#5.91"}, {"Aspect": "可加", "Opinion": "酸", "VA": "6.38#5.91"}, {"Aspect": "可加", "Opinion": "味道", "VA": "6.38#5.91"}, {"Aspect": "點的", "Opinion": "薄也", "VA": "6.44#5.98"}, {"Aspect": "點的", "Opinion": "豆腐", "VA": "6.44#5.98"}, {"Aspect": "很", "Opinion": "很", "VA": "6.53#6.06"}, {"Aspect": "跟綠", "Opinion": "好", "VA": "6.56#5.97"}, {"Aspect": "很", "Opinion": "吃,", "VA": "6.53#6.06"}]}
+{"ID": "R7432:S001", "Triplet": [{"Aspect": "是泰", "Opinion": "奶!", "VA": "7.27#7.00"}, {"Aspect": "是泰", "Opinion": "且", "VA": "7.27#7.00"}]}
+{"ID": "R7431:S000", "Triplet": []}
+{"ID": "R7425:S003", "Triplet": []}
+{"ID": "R7425:S002", "Triplet": []}
+{"ID": "R7424:S000", "Triplet": [{"Aspect": "務裝", "Opinion": "潢有", "VA": "6.39#6.29"}, {"Aspect": "過餐", "Opinion": "星平", "VA": "4.95#6.03"}]}
+{"ID": "R7416:S003", "Triplet": []}
+{"ID": "R7415:S001", "Triplet": [{"Aspect": "內裝", "Opinion": "潢很", "VA": "6.66#6.25"}, {"Aspect": "餐", "Opinion": "點", "VA": "6.53#6.13"}, {"Aspect": "餐", "Opinion": "也不", "VA": "6.53#6.13"}, {"Aspect": "餐", "Opinion": "錯", "VA": "6.53#6.13"}]}
+{"ID": "R7412:S000", "Triplet": [{"Aspect": "統泰", "Opinion": "像", "VA": "6.79#6.28"}, {"Aspect": "統泰", "Opinion": "中還", "VA": "6.79#6.28"}, {"Aspect": "統泰", "Opinion": ",正", "VA": "6.79#6.28"}, {"Aspect": "統泰", "Opinion": "茶", "VA": "6.79#6.28"}, {"Aspect": "統泰", "Opinion": "跟", "VA": "6.79#6.28"}, {"Aspect": "統泰", "Opinion": "當", "VA": "6.79#6.28"}, {"Aspect": "統泰", "Opinion": "地", "VA": "6.79#6.28"}, {"Aspect": "統泰", "Opinion": "的ㄧ", "VA": "6.79#6.28"}, {"Aspect": "統泰", "Opinion": "樣", "VA": "6.79#6.28"}, {"Aspect": "統泰", "Opinion": ",好", "VA": "6.79#6.28"}]}
+{"ID": "R7410:S001", "Triplet": []}
+{"ID": "R7403:S003", "Triplet": []}
+{"ID": "R7401:S000", "Triplet": [{"Aspect": "建", "Opinion": "議", "VA": "6.56#6.27"}, {"Aspect": "建", "Opinion": "料比", "VA": "6.56#6.27"}, {"Aspect": "三", "Opinion": "原", "VA": "6.56#6.29"}, {"Aspect": "三", "Opinion": "來多", "VA": "6.56#6.29"}, {"Aspect": "是", "Opinion": "但薑", "VA": "6.57#6.29"}, {"Aspect": "是", "Opinion": "od", "VA": "6.57#6.29"}]}
+{"ID": "R7387:S002", "Triplet": []}
+{"ID": "R7383:S000", "Triplet": []}
+{"ID": "R7381:S000", "Triplet": []}
+{"ID": "R7374:S000", "Triplet": [{"Aspect": "的餐", "Opinion": "點", "VA": "6.07#5.79"}, {"Aspect": "的餐", "Opinion": "不多", "VA": "6.07#5.79"}]}
+{"ID": "R7360:S000", "Triplet": [{"Aspect": "、", "Opinion": "味", "VA": "6.71#6.16"}, {"Aspect": "、", "Opinion": ",餐", "VA": "6.71#6.16"}, {"Aspect": "、", "Opinion": "點好", "VA": "6.71#6.16"}]}
+{"ID": "R7356:S000", "Triplet": []}
+{"ID": "R7338:S000", "Triplet": [{"Aspect": "的麵", "Opinion": "又實", "VA": "6.21#5.68"}]}
+{"ID": "R7336:S000", "Triplet": [{"Aspect": "的炸", "Opinion": "麵", "VA": "6.29#5.67"}, {"Aspect": "的炸", "Opinion": "大", "VA": "6.29#5.67"}]}
+{"ID": "R7335:S000", "Triplet": []}
+{"ID": "R7287:S000", "Triplet": []}
+{"ID": "R7283:S000", "Triplet": [{"Aspect": "麵", "Opinion": "的", "VA": "6.36#5.71"}, {"Aspect": "麵", "Opinion": "就", "VA": "6.36#5.71"}, {"Aspect": "麵", "Opinion": "有", "VA": "6.36#5.71"}, {"Aspect": "麵", "Opinion": "5顆", "VA": "6.36#5.71"}, {"Aspect": "麵", "Opinion": "星", "VA": "6.36#5.71"}, {"Aspect": "麵", "Opinion": ",炸", "VA": "6.36#5.71"}, {"Aspect": "麵", "Opinion": ",", "VA": "6.36#5.71"}]}
+{"ID": "R7278:S000", "Triplet": []}
+{"ID": "R7270:S000", "Triplet": []}
+{"ID": "R7260:S000", "Triplet": [{"Aspect": "吃乾", "Opinion": "身喜", "VA": "6.38#5.81"}, {"Aspect": "很香", "Opinion": "炸", "VA": "6.46#5.88"}, {"Aspect": "很香", "Opinion": "醬", "VA": "6.46#5.88"}, {"Aspect": "很香", "Opinion": "麵吃", "VA": "6.46#5.88"}, {"Aspect": "很香", "Opinion": "來不", "VA": "6.46#5.88"}]}
+{"ID": "R7243:S000", "Triplet": [{"Aspect": "強炸", "Opinion": "吃", "VA": "6.84#6.22"}, {"Aspect": "強炸", "Opinion": ",好", "VA": "6.84#6.22"}, {"Aspect": "強炸", "Opinion": "吃", "VA": "6.84#6.22"}, {"Aspect": "強炸", "Opinion": ",好", "VA": "6.84#6.22"}]}
+{"ID": "R7230:S000", "Triplet": []}
+{"ID": "R7221:S000", "Triplet": [{"Aspect": "吃的", "Opinion": "中第", "VA": "7.43#7.27"}, {"Aspect": "吃的", "Opinion": "一名", "VA": "7.43#7.27"}]}
+{"ID": "R7213:S000", "Triplet": []}
+{"ID": "R7175:S000", "Triplet": [{"Aspect": "家的", "Opinion": "小", "VA": "6.74#6.34"}, {"Aspect": "家的", "Opinion": "到", "VA": "6.74#6.34"}, {"Aspect": "家的", "Opinion": "大最", "VA": "6.74#6.34"}, {"Aspect": " ", "Opinion": "他們", "VA": "6.64#6.25"}, {"Aspect": " ", "Opinion": "自己", "VA": "6.64#6.25"}, {"Aspect": " ", "Opinion": "辣椒", "VA": "6.64#6.25"}]}
+{"ID": "R7162:S000", "Triplet": [{"Aspect": "郁", "Opinion": "得", "VA": "6.81#6.26"}, {"Aspect": "郁", "Opinion": "到肉", "VA": "6.81#6.26"}, {"Aspect": ",", "Opinion": "味", "VA": "6.84#6.31"}, {"Aspect": "丸", "Opinion": "量", "VA": "6.75#6.19"}, {"Aspect": "勁", "Opinion": "足內", "VA": "6.74#6.20"}, {"Aspect": "勁", "Opinion": "餡蔥", "VA": "6.74#6.20"}]}
+{"ID": "R7157:S000", "Triplet": [{"Aspect": "頭", "Opinion": "很好", "VA": "6.64#6.23"}, {"Aspect": "頭", "Opinion": ",甜", "VA": "6.64#6.23"}, {"Aspect": "頭", "Opinion": "甜", "VA": "6.64#6.23"}, {"Aspect": "頭", "Opinion": "的,", "VA": "6.64#6.23"}, {"Aspect": "頭", "Opinion": "也很", "VA": "6.64#6.23"}, {"Aspect": "頭", "Opinion": "!價", "VA": "6.64#6.23"}]}
+{"ID": "R7125:S001", "Triplet": []}
+{"ID": "R7118:S000", "Triplet": []}
+{"ID": "R7113:S000", "Triplet": [{"Aspect": "家買", "Opinion": "人只", "VA": "7.02#7.06"}]}
+{"ID": "R7109:S000", "Triplet": []}
+{"ID": "R7108:S001", "Triplet": []}
+{"ID": "R7092:S005", "Triplet": []}
+{"ID": "R7073:S000", "Triplet": [{"Aspect": "誘", "Opinion": "來", "VA": "6.70#6.28"}]}
+{"ID": "R7043:S002", "Triplet": [{"Aspect": "ro", "Opinion": " r", "VA": "6.20#5.88"}, {"Aspect": "ro", "Opinion": "h", "VA": "6.20#5.88"}, {"Aspect": "ro", "Opinion": "_", "VA": "6.20#5.88"}, {"Aspect": "ro", "Opinion": "ar", "VA": "6.20#5.88"}, {"Aspect": "ro", "Opinion": " ", "VA": "6.20#5.88"}, {"Aspect": "ro", "Opinion": "蠻", "VA": "6.20#5.88"}]}
+{"ID": "R7031:S004", "Triplet": []}
+{"ID": "R7029:S000", "Triplet": []}
+{"ID": "R7005:S003", "Triplet": []}
+{"ID": "R6995:S004", "Triplet": [{"Aspect": "甜", "Opinion": "乳酪", "VA": "5.75#5.23"}, {"Aspect": "甜", "Opinion": "清", "VA": "5.75#5.23"}, {"Aspect": "甜", "Opinion": "膩", "VA": "5.75#5.23"}]}
+{"ID": "R6986:S003", "Triplet": []}
+{"ID": "R6984:S000", "Triplet": []}
+{"ID": "R6983:S000", "Triplet": [{"Aspect": "的內", "Opinion": "餡", "VA": "6.45#5.91"}, {"Aspect": "的內", "Opinion": "很", "VA": "6.45#5.91"}, {"Aspect": "的內", "Opinion": "稠", "VA": "6.45#5.91"}, {"Aspect": "的內", "Opinion": "很濃", "VA": "6.45#5.91"}, {"Aspect": "的內", "Opinion": "皮稍", "VA": "6.45#5.91"}, {"Aspect": "的內", "Opinion": "就是", "VA": "6.45#5.91"}]}
+{"ID": "R6970:S007", "Triplet": []}
+{"ID": "R6970:S003", "Triplet": [{"Aspect": "會太", "Opinion": "味滿", "VA": "6.20#5.58"}, {"Aspect": "會太", "Opinion": ",旁", "VA": "6.20#5.58"}, {"Aspect": "會太", "Opinion": "邊", "VA": "6.20#5.58"}, {"Aspect": "會太", "Opinion": "的餅", "VA": "6.20#5.58"}, {"Aspect": "會太", "Opinion": "酥脆", "VA": "6.20#5.58"}]}
+{"ID": "R6961:S001", "Triplet": []}
+{"ID": "R6960:S005", "Triplet": []}
+{"ID": "R6948:S001", "Triplet": [{"Aspect": "溜檸", "Opinion": "塔", "VA": "6.22#5.94"}, {"Aspect": "溜檸", "Opinion": "上", "VA": "6.22#5.94"}, {"Aspect": "溜檸", "Opinion": "面很", "VA": "6.22#5.94"}]}
+{"ID": "R6923:S009", "Triplet": []}
+{"ID": "R6917:S000", "Triplet": []}
+{"ID": "R6910:S003", "Triplet": [{"Aspect": "較", "Opinion": "塔", "VA": "6.13#5.83"}, {"Aspect": "較", "Opinion": "道", "VA": "6.13#5.83"}, {"Aspect": "較", "Opinion": ",", "VA": "6.13#5.83"}, {"Aspect": "較", "Opinion": "果", "VA": "6.13#5.83"}]}
+{"ID": "R6894:S000", "Triplet": [{"Aspect": "跟店", "Opinion": "味十", "VA": "6.86#6.49"}, {"Aspect": "跟店", "Opinion": "境", "VA": "6.86#6.49"}, {"Aspect": "跟店", "Opinion": "員十", "VA": "6.86#6.49"}, {"Aspect": "優格", "Opinion": "上", "VA": "6.66#6.15"}, {"Aspect": "優格", "Opinion": "吃", "VA": "6.66#6.15"}]}
+{"ID": "R6866:S000", "Triplet": [{"Aspect": "莓蒙", "Opinion": "平", "VA": "4.44#5.45"}, {"Aspect": "莓蒙", "Opinion": "時很", "VA": "4.44#5.45"}, {"Aspect": "布", "Opinion": "皮", "VA": "4.37#5.42"}, {"Aspect": "布", "Opinion": "酥偏", "VA": "4.37#5.42"}]}
+{"ID": "R6838:S000", "Triplet": []}
+{"ID": "R6836:S000", "Triplet": [{"Aspect": "又", "Opinion": "點又", "VA": "4.48#5.26"}, {"Aspect": "又", "Opinion": "貴", "VA": "4.48#5.26"}]}
+{"ID": "R6829:S000", "Triplet": [{"Aspect": "配白", "Opinion": "也是", "VA": "7.00#6.59"}, {"Aspect": "配白", "Opinion": "小菜", "VA": "7.00#6.59"}]}
+{"ID": "R6826:S000", "Triplet": []}
+{"ID": "R6817:S000", "Triplet": []}
+{"ID": "R6800:S000", "Triplet": []}
+{"ID": "R6784:S000", "Triplet": [{"Aspect": "的角", "Opinion": "最平", "VA": "6.60#6.22"}]}
+{"ID": "R6758:S000", "Triplet": [{"Aspect": "小份", "Opinion": "量剛", "VA": "5.76#5.54"}, {"Aspect": "小份", "Opinion": "是", "VA": "5.76#5.54"}, {"Aspect": "小份", "Opinion": "感覺", "VA": "5.76#5.54"}, {"Aspect": "小份", "Opinion": "不過", "VA": "5.76#5.54"}]}
+{"ID": "R6743:S000", "Triplet": []}
+{"ID": "R6740:S000", "Triplet": [{"Aspect": "氣肉", "Opinion": "人很", "VA": "6.63#6.15"}, {"Aspect": "氣肉", "Opinion": "排很", "VA": "6.63#6.15"}, {"Aspect": "嫩飯", "Opinion": "生吃", "VA": "6.55#6.11"}]}
+{"ID": "R6733:S000", "Triplet": [{"Aspect": "很", "Opinion": "餐", "VA": "4.12#5.69"}, {"Aspect": "差", "Opinion": "點貴", "VA": "4.13#5.66"}]}
+{"ID": "R6728:S000", "Triplet": []}
+{"ID": "R6724:S000", "Triplet": [{"Aspect": "錯吃", "Opinion": "待", "VA": "5.04#5.58"}, {"Aspect": "錯吃", "Opinion": "高", "VA": "5.04#5.58"}]}
+{"ID": "R6715:S000", "Triplet": [{"Aspect": "害的", "Opinion": "別", "VA": "7.07#6.81"}, {"Aspect": "麼美", "Opinion": "做", "VA": "7.04#6.67"}, {"Aspect": "麼美", "Opinion": "出那", "VA": "7.04#6.67"}]}
+{"ID": "R6703:S003", "Triplet": [{"Aspect": "肉", "Opinion": "起", "VA": "5.99#5.76"}, {"Aspect": "肉", "Opinion": "來相", "VA": "5.99#5.76"}, {"Aspect": "肉", "Opinion": "當溫", "VA": "5.99#5.76"}]}
+{"ID": "R6663:S002", "Triplet": []}
+{"ID": "R6656:S000", "Triplet": []}
+{"ID": "R6641:S000", "Triplet": [{"Aspect": "好吃", "Opinion": "都", "VA": "4.83#5.81"}, {"Aspect": ",", "Opinion": "其醃", "VA": "5.24#6.00"}, {"Aspect": "極厚", "Opinion": "比", "VA": "4.43#5.57"}]}
+{"ID": "R6632:S000", "Triplet": [{"Aspect": "軟", "Opinion": "飯", "VA": "5.65#5.84"}, {"Aspect": "軟", "Opinion": "厚", "VA": "5.65#5.84"}]}
+{"ID": "R6603:S005", "Triplet": [{"Aspect": "到", "Opinion": "且", "VA": "5.47#5.64"}, {"Aspect": "到", "Opinion": ",而", "VA": "5.47#5.64"}]}
+{"ID": "R6603:S004", "Triplet": [{"Aspect": "的裹", "Opinion": "偏硬", "VA": "5.33#6.20"}]}
+{"ID": "R6592:S000", "Triplet": [{"Aspect": "且肉", "Opinion": "面", "VA": "4.05#5.65"}, {"Aspect": "且肉", "Opinion": "整個", "VA": "4.05#5.65"}]}
+{"ID": "R6587:S003", "Triplet": []}
+{"ID": "R6586:S001", "Triplet": [{"Aspect": "吃炸", "Opinion": "氣熱", "VA": "4.04#5.62"}, {"Aspect": "吃炸", "Opinion": ",真", "VA": "4.04#5.62"}]}
+{"ID": "R6585:S007", "Triplet": [{"Aspect": "的", "Opinion": "很", "VA": "6.52#6.20"}, {"Aspect": "的", "Opinion": "好", "VA": "6.52#6.20"}, {"Aspect": "的", "Opinion": "吃", "VA": "6.52#6.20"}, {"Aspect": "的", "Opinion": ",口", "VA": "6.52#6.20"}, {"Aspect": "的", "Opinion": "感偏", "VA": "6.52#6.20"}, {"Aspect": "的", "Opinion": "但是", "VA": "6.52#6.20"}, {"Aspect": "的", "Opinion": "種", "VA": "6.52#6.20"}, {"Aspect": "的", "Opinion": ",然", "VA": "6.52#6.20"}]}
+{"ID": "R6578:S000", "Triplet": []}
+{"ID": "R6572:S000", "Triplet": [{"Aspect": "!", "Opinion": "整", "VA": "5.94#5.80"}, {"Aspect": "!", "Opinion": "斉清", "VA": "5.94#5.80"}, {"Aspect": "!", "Opinion": "獨", "VA": "5.94#5.80"}, {"Aspect": "!", "Opinion": "特", "VA": "5.94#5.80"}, {"Aspect": "!", "Opinion": "!價", "VA": "5.94#5.80"}]}
+{"ID": "R6554:S000", "Triplet": [{"Aspect": "跟豬", "Opinion": "都很", "VA": "7.07#6.58"}]}
+{"ID": "R6551:S000", "Triplet": []}
+{"ID": "R6549:S000", "Triplet": [{"Aspect": "雞", "Opinion": "不過", "VA": "6.67#6.06"}]}
+{"ID": "R6547:S000", "Triplet": [{"Aspect": "吃店", "Opinion": "花", "VA": "6.61#6.10"}, {"Aspect": "吃店", "Opinion": "雕雞", "VA": "6.61#6.10"}]}
+{"ID": "R6539:S000", "Triplet": []}
+{"ID": "R6538:S000", "Triplet": [{"Aspect": "心", "Opinion": ",魚", "VA": "3.22#6.21"}, {"Aspect": "新", "Opinion": "鮮", "VA": "3.49#5.82"}, {"Aspect": "新", "Opinion": "還", "VA": "3.49#5.82"}]}
+{"ID": "R6536:S000", "Triplet": []}
+{"ID": "R6526:S000", "Triplet": [{"Aspect": "還", "Opinion": "但", "VA": "5.73#5.78"}]}
+{"ID": "R6525:S000", "Triplet": []}
+{"ID": "R6524:S000", "Triplet": []}
+{"ID": "R6523:S000", "Triplet": []}
+{"ID": "R6522:S000", "Triplet": []}
+{"ID": "R6520:S000", "Triplet": []}
+{"ID": "R6519:S000", "Triplet": [{"Aspect": "o", "Opinion": "k,", "VA": "5.99#5.89"}, {"Aspect": "o", "Opinion": "肉", "VA": "5.99#5.89"}, {"Aspect": "o", "Opinion": "多", "VA": "5.99#5.89"}, {"Aspect": "o", "Opinion": "鍋", "VA": "5.99#5.89"}, {"Aspect": "o", "Opinion": ",", "VA": "5.99#5.89"}, {"Aspect": "o", "Opinion": "味道", "VA": "5.99#5.89"}]}
+{"ID": "R6517:S000", "Triplet": []}
+{"ID": "R6515:S000", "Triplet": [{"Aspect": "辣", "Opinion": "都不", "VA": "6.36#5.78"}, {"Aspect": "錯", "Opinion": ",雞", "VA": "6.35#5.74"}, {"Aspect": "軟", "Opinion": "口", "VA": "6.36#5.69"}, {"Aspect": "軟", "Opinion": ",魚", "VA": "6.36#5.69"}]}
+{"ID": "R6511:S000", "Triplet": [{"Aspect": "飯", "Opinion": "吃", "VA": "6.22#5.53"}, {"Aspect": "飯", "Opinion": "到飽", "VA": "6.22#5.53"}]}
+{"ID": "R6509:S000", "Triplet": [{"Aspect": "之", "Opinion": "外", "VA": "6.67#6.19"}, {"Aspect": "之", "Opinion": "馬", "VA": "6.67#6.19"}, {"Aspect": "之", "Opinion": "鈴薯", "VA": "6.67#6.19"}, {"Aspect": "之", "Opinion": ",份", "VA": "6.67#6.19"}, {"Aspect": "之", "Opinion": "量", "VA": "6.67#6.19"}, {"Aspect": "之", "Opinion": "小", "VA": "6.67#6.19"}, {"Aspect": "之", "Opinion": " 2", "VA": "6.67#6.19"}, {"Aspect": "之", "Opinion": "內用", "VA": "6.67#6.19"}]}
+{"ID": "R6502:S003", "Triplet": []}
+{"ID": "R6502:S001", "Triplet": [{"Aspect": "的", "Opinion": "餐", "VA": "4.07#5.58"}, {"Aspect": "們", "Opinion": "難吃", "VA": "4.04#5.67"}, {"Aspect": "們", "Opinion": "店會", "VA": "4.04#5.67"}]}
+{"ID": "R6500:S000", "Triplet": []}
+{"ID": "R6499:S005", "Triplet": []}
+{"ID": "R6499:S004", "Triplet": []}
+{"ID": "R6499:S002", "Triplet": []}
+{"ID": "R6497:S000", "Triplet": [{"Aspect": "飯", "Opinion": "燜", "VA": "6.72#6.30"}, {"Aspect": "飯", "Opinion": "雞好", "VA": "6.72#6.30"}, {"Aspect": "飯", "Opinion": "就", "VA": "6.72#6.30"}]}
+{"ID": "R6494:S002", "Triplet": []}
+{"ID": "R6480:S002", "Triplet": []}
+{"ID": "R6479:S000", "Triplet": []}
+{"ID": "R6475:S001", "Triplet": []}
+{"ID": "R6469:S000", "Triplet": []}
+{"ID": "R6462:S000", "Triplet": []}
+{"ID": "R6460:S004", "Triplet": []}
+{"ID": "R6459:S000", "Triplet": []}
+{"ID": "R6455:S000", "Triplet": []}
+{"ID": "R6454:S000", "Triplet": [{"Aspect": "錯", "Opinion": "味還", "VA": "6.32#5.88"}, {"Aspect": "錯", "Opinion": "也沒", "VA": "6.32#5.88"}]}
+{"ID": "R6449:S000", "Triplet": []}
+{"ID": "R6446:S000", "Triplet": [{"Aspect": "/黃", "Opinion": "牛", "VA": "6.91#6.36"}, {"Aspect": "/黃", "Opinion": "比", "VA": "6.91#6.36"}, {"Aspect": "燜", "Opinion": "黃", "VA": "6.94#6.41"}, {"Aspect": "/黃", "Opinion": "!內", "VA": "6.91#6.36"}]}
+{"ID": "R6435:S000", "Triplet": []}
+{"ID": "R6429:S000", "Triplet": [{"Aspect": "環境", "Opinion": "善", "VA": "6.10#5.49"}, {"Aspect": "環境", "Opinion": ",", "VA": "6.10#5.49"}, {"Aspect": "環境", "Opinion": "份量", "VA": "6.10#5.49"}, {"Aspect": "環境", "Opinion": "充", "VA": "6.10#5.49"}, {"Aspect": "環境", "Opinion": ",", "VA": "6.10#5.49"}]}
+{"ID": "R6426:S000", "Triplet": []}
+{"ID": "R6420:S001", "Triplet": []}
+{"ID": "R6419:S000", "Triplet": [{"Aspect": "大", "Opinion": "辣不", "VA": "5.29#5.82"}, {"Aspect": "大", "Opinion": "結", "VA": "5.29#5.82"}, {"Aspect": "大", "Opinion": "果這", "VA": "5.29#5.82"}, {"Aspect": "大", "Opinion": "次辣", "VA": "5.29#5.82"}, {"Aspect": "大", "Opinion": "到", "VA": "5.29#5.82"}]}
+{"ID": "R6418:S000", "Triplet": [{"Aspect": "唰", "Opinion": "的是", "VA": "6.56#6.33"}, {"Aspect": "唰", "Opinion": "其白", "VA": "6.56#6.33"}, {"Aspect": "唰", "Opinion": "與湯", "VA": "6.56#6.33"}]}
+{"ID": "R6415:S000", "Triplet": []}
+{"ID": "R6407:S000", "Triplet": []}
+{"ID": "R6404:S000", "Triplet": [{"Aspect": "加", "Opinion": "素", "VA": "5.70#5.51"}, {"Aspect": "加", "Opinion": "蒜", "VA": "5.70#5.51"}, {"Aspect": "加", "Opinion": "頭不", "VA": "5.70#5.51"}, {"Aspect": "辣", "Opinion": "環", "VA": "6.01#5.59"}, {"Aspect": "境", "Opinion": "餐", "VA": "5.99#5.56"}, {"Aspect": "境", "Opinion": "具乾", "VA": "5.99#5.56"}, {"Aspect": "境", "Opinion": "食", "VA": "5.99#5.56"}, {"Aspect": "境", "Opinion": "材", "VA": "5.99#5.56"}, {"Aspect": "境", "Opinion": "多樣", "VA": "5.99#5.56"}, {"Aspect": "境", "Opinion": "醬汁", "VA": "5.99#5.56"}, {"Aspect": "飽葉", "Opinion": "白飯", "VA": "6.30#5.83"}, {"Aspect": "飽葉", "Opinion": "類很", "VA": "6.30#5.83"}, {"Aspect": "好", "Opinion": "菇", "VA": "5.99#5.59"}, {"Aspect": "好", "Opinion": "類新", "VA": "5.99#5.59"}, {"Aspect": "好", "Opinion": "鮮", "VA": "5.99#5.59"}, {"Aspect": "天", "Opinion": "度中", "VA": "5.93#5.59"}, {"Aspect": "的白", "Opinion": "整", "VA": "5.91#5.61"}, {"Aspect": "的白", "Opinion": "體都", "VA": "5.91#5.61"}, {"Aspect": "的白", "Opinion": "K", "VA": "5.91#5.61"}]}
+{"ID": "R6399:S001", "Triplet": [{"Aspect": ".", "Opinion": ".", "VA": "4.90#5.43"}, {"Aspect": "葉菜", "Opinion": ",料", "VA": "4.71#5.30"}, {"Aspect": "葉菜", "Opinion": "也", "VA": "4.71#5.30"}]}
+{"ID": "R6394:S000", "Triplet": []}
+{"ID": "R6386:S000", "Triplet": [{"Aspect": "多", "Opinion": "青", "VA": "4.06#5.70"}, {"Aspect": "椒很", "Opinion": "薯", "VA": "4.21#5.65"}]}
+{"ID": "R6384:S001", "Triplet": []}
+{"ID": "R6384:S000", "Triplet": []}
+{"ID": "R6376:S000", "Triplet": []}
+{"ID": "R6375:S000", "Triplet": [{"Aspect": "好吃", "Opinion": "點超", "VA": "7.24#6.91"}, {"Aspect": "好吃", "Opinion": "餐點", "VA": "7.24#6.91"}, {"Aspect": "務優", "Opinion": "上", "VA": "7.16#6.79"}, {"Aspect": "務優", "Opinion": "菜快", "VA": "7.16#6.79"}, {"Aspect": "務優", "Opinion": "鈴薯", "VA": "7.16#6.79"}]}
+{"ID": "R6373:S000", "Triplet": []}
+{"ID": "R6366:S000", "Triplet": [{"Aspect": "下飯", "Opinion": "物好", "VA": "6.09#5.82"}, {"Aspect": "下飯", "Opinion": "腸", "VA": "6.09#5.82"}, {"Aspect": "下飯", "Opinion": "非", "VA": "6.09#5.82"}, {"Aspect": "下飯", "Opinion": ",很", "VA": "6.09#5.82"}, {"Aspect": "下飯", "Opinion": ",價", "VA": "6.09#5.82"}, {"Aspect": "下飯", "Opinion": "格個", "VA": "6.09#5.82"}, {"Aspect": "下飯", "Opinion": "人", "VA": "6.09#5.82"}]}
+{"ID": "R6361:S002", "Triplet": []}
+{"ID": "R6360:S002", "Triplet": []}
+{"ID": "R6353:S002", "Triplet": []}
+{"ID": "R6352:S003", "Triplet": [{"Aspect": "回", "Opinion": ",雞", "VA": "6.43#5.79"}, {"Aspect": "多", "Opinion": "肉骨", "VA": "6.34#5.78"}, {"Aspect": "多", "Opinion": "但肉", "VA": "6.34#5.78"}]}
+{"ID": "R6351:S001", "Triplet": [{"Aspect": "牛", "Opinion": "豬都", "VA": "6.23#5.69"}]}
+{"ID": "R6350:S000", "Triplet": []}
+{"ID": "R6348:S000", "Triplet": []}
+{"ID": "R6346:S005", "Triplet": []}
+{"ID": "R6346:S001", "Triplet": []}
+{"ID": "R6342:S001", "Triplet": []}
+{"ID": "R6325:S000", "Triplet": [{"Aspect": "合理", "Opinion": "難得", "VA": "6.62#6.14"}, {"Aspect": "合理", "Opinion": "價格", "VA": "6.62#6.14"}, {"Aspect": "合理", "Opinion": "餐", "VA": "6.62#6.14"}, {"Aspect": "合理", "Opinion": "點又", "VA": "6.62#6.14"}]}
+{"ID": "R6324:S000", "Triplet": [{"Aspect": "外", "Opinion": "機很", "VA": "6.66#6.41"}]}
+{"ID": "R6319:S002", "Triplet": []}
+{"ID": "R6319:S000", "Triplet": []}
+{"ID": "R6313:S005", "Triplet": [{"Aspect": "是看", "Opinion": ",生", "VA": "6.54#6.17"}]}
+{"ID": "R6307:S000", "Triplet": [{"Aspect": "和義", "Opinion": "利麵", "VA": "5.99#5.85"}]}
+{"ID": "R6297:S000", "Triplet": []}
+{"ID": "R6291:S000", "Triplet": [{"Aspect": "不", "Opinion": "置", "VA": "6.16#5.62"}, {"Aspect": "不", "Opinion": "生", "VA": "6.16#5.62"}, {"Aspect": "不", "Opinion": "意很", "VA": "6.16#5.62"}, {"Aspect": "不", "Opinion": "但不", "VA": "6.16#5.62"}, {"Aspect": "不", "Opinion": "點", "VA": "6.16#5.62"}, {"Aspect": "不", "Opinion": "美味", "VA": "6.16#5.62"}, {"Aspect": "不", "Opinion": "闆", "VA": "6.16#5.62"}]}
+{"ID": "R6287:S000", "Triplet": [{"Aspect": "雞胸", "Opinion": "口", "VA": "6.35#5.87"}, {"Aspect": "雞胸", "Opinion": "感越", "VA": "6.35#5.87"}, {"Aspect": "雞胸", "Opinion": "吃", "VA": "6.35#5.87"}]}
+{"ID": "R6285:S000", "Triplet": [{"Aspect": "生", "Opinion": "生", "VA": "6.33#5.72"}, {"Aspect": "9", "Opinion": "9", "VA": "6.36#5.78"}, {"Aspect": "生", "Opinion": "蛤", "VA": "6.33#5.72"}, {"Aspect": "麵", "Opinion": "$", "VA": "6.52#5.93"}, {"Aspect": "9", "Opinion": "0", "VA": "6.36#5.78"}, {"Aspect": "9", "Opinion": "醬汁", "VA": "6.36#5.78"}, {"Aspect": "9", "Opinion": "水", "VA": "6.36#5.78"}, {"Aspect": "9", "Opinion": "點也", "VA": "6.36#5.78"}, {"Aspect": "9", "Opinion": "不稀", "VA": "6.36#5.78"}]}
+{"ID": "R6282:S001", "Triplet": [{"Aspect": "不", "Opinion": "膽", "VA": "6.26#5.77"}, {"Aspect": "不", "Opinion": "大", "VA": "6.26#5.77"}, {"Aspect": "不", "Opinion": "利", "VA": "6.26#5.77"}, {"Aspect": "不", "Opinion": "麵,", "VA": "6.26#5.77"}, {"Aspect": "不", "Opinion": "還", "VA": "6.26#5.77"}, {"Aspect": "不", "Opinion": "不", "VA": "6.26#5.77"}, {"Aspect": "不", "Opinion": "錯", "VA": "6.26#5.77"}, {"Aspect": "不", "Opinion": ",口", "VA": "6.26#5.77"}, {"Aspect": "濃不", "Opinion": "味", "VA": "5.81#5.37"}]}
+{"ID": "R6281:S002", "Triplet": [{"Aspect": "濃", "Opinion": "道", "VA": "4.96#5.51"}]}
+{"ID": "R6271:S000", "Triplet": []}
+{"ID": "R6270:S003", "Triplet": []}
+{"ID": "R6270:S002", "Triplet": []}
+{"ID": "R6270:S001", "Triplet": [{"Aspect": "上", "Opinion": ",", "VA": "6.12#5.59"}, {"Aspect": "上", "Opinion": ",麵", "VA": "6.12#5.59"}, {"Aspect": "上", "Opinion": "感Q", "VA": "6.12#5.59"}, {"Aspect": "上", "Opinion": "勁", "VA": "6.12#5.59"}, {"Aspect": "上", "Opinion": "加", "VA": "6.12#5.59"}, {"Aspect": "條", "Opinion": "麵", "VA": "6.11#5.59"}, {"Aspect": "上", "Opinion": ",湯", "VA": "6.12#5.59"}]}
+{"ID": "R6268:S000", "Triplet": [{"Aspect": "日", "Opinion": "內採", "VA": "6.33#6.14"}, {"Aspect": "及生", "Opinion": "菜", "VA": "6.31#6.02"}, {"Aspect": "及生", "Opinion": "吃很", "VA": "6.31#6.02"}, {"Aspect": "爽麵", "Opinion": "口", "VA": "6.45#6.07"}, {"Aspect": "爽麵", "Opinion": "感像", "VA": "6.45#6.07"}, {"Aspect": "爽麵", "Opinion": "點用", "VA": "6.45#6.07"}]}
+{"ID": "R6264:S001", "Triplet": []}
+{"ID": "R6261:S001", "Triplet": []}
+{"ID": "R6257:S000", "Triplet": []}
+{"ID": "R6255:S000", "Triplet": [{"Aspect": "牌", "Opinion": "醬很", "VA": "6.29#6.02"}]}
+{"ID": "R6253:S005", "Triplet": []}
+{"ID": "R6250:S000", "Triplet": [{"Aspect": "大", "Opinion": "利麵", "VA": "6.31#5.85"}, {"Aspect": "大", "Opinion": "麵", "VA": "6.31#5.85"}, {"Aspect": "原本", "Opinion": "充滿", "VA": "6.26#5.80"}, {"Aspect": "原本", "Opinion": "材自", "VA": "6.26#5.80"}]}
+{"ID": "R6248:S001", "Triplet": []}
+{"ID": "R6244:S000", "Triplet": [{"Aspect": "大", "Opinion": "而", "VA": "6.19#5.88"}, {"Aspect": "大", "Opinion": "比較", "VA": "6.19#5.88"}, {"Aspect": "大", "Opinion": "利麵", "VA": "6.19#5.88"}, {"Aspect": "大", "Opinion": "會偏", "VA": "6.19#5.88"}]}
+{"ID": "R6243:S000", "Triplet": []}
+{"ID": "R6241:S000", "Triplet": []}
+{"ID": "R6239:S000", "Triplet": [{"Aspect": "牙", "Opinion": "利麵", "VA": "6.51#5.95"}, {"Aspect": "牙", "Opinion": "口", "VA": "6.51#5.95"}, {"Aspect": "牙", "Opinion": "感不", "VA": "6.51#5.95"}, {"Aspect": "牙", "Opinion": "一", "VA": "6.51#5.95"}, {"Aspect": "牙", "Opinion": "樣", "VA": "6.51#5.95"}, {"Aspect": "牙", "Opinion": ",彈", "VA": "6.51#5.95"}]}
+{"ID": "R6234:S000", "Triplet": []}
+{"ID": "R6225:S002", "Triplet": []}
+{"ID": "R6225:S000", "Triplet": []}
+{"ID": "R6220:S000", "Triplet": []}
+{"ID": "R6219:S003", "Triplet": [{"Aspect": "跟蛤", "Opinion": "蜊", "VA": "6.50#6.05"}, {"Aspect": "跟蛤", "Opinion": "都很", "VA": "6.50#6.05"}, {"Aspect": "道", "Opinion": "新", "VA": "5.15#5.35"}, {"Aspect": "道", "Opinion": "鮮", "VA": "5.15#5.35"}]}
+{"ID": "R6219:S002", "Triplet": [{"Aspect": "子", "Opinion": "利", "VA": "6.36#5.72"}, {"Aspect": "子", "Opinion": "麵味", "VA": "6.36#5.72"}, {"Aspect": "又", "Opinion": "道", "VA": "6.30#5.61"}, {"Aspect": "又", "Opinion": "很", "VA": "6.30#5.61"}, {"Aspect": "又", "Opinion": "夠味", "VA": "6.30#5.61"}, {"Aspect": "又", "Opinion": ",又", "VA": "6.30#5.61"}, {"Aspect": "又", "Opinion": "濃", "VA": "6.30#5.61"}, {"Aspect": "又", "Opinion": "的", "VA": "6.30#5.61"}, {"Aspect": "又", "Opinion": ",雞", "VA": "6.30#5.61"}]}
+{"ID": "R6214:S000", "Triplet": [{"Aspect": "大", "Opinion": "利", "VA": "5.33#5.56"}, {"Aspect": "難", "Opinion": ",", "VA": "5.46#5.46"}]}
+{"ID": "R6201:S000", "Triplet": [{"Aspect": "Q", "Opinion": ",麵", "VA": "6.56#5.84"}, {"Aspect": "Q", "Opinion": "、", "VA": "6.56#5.84"}, {"Aspect": "Q", "Opinion": "味", "VA": "6.56#5.84"}, {"Aspect": "Q", "Opinion": "道", "VA": "6.56#5.84"}, {"Aspect": "Q", "Opinion": "濃郁", "VA": "6.56#5.84"}]}
+{"ID": "R6196:S000", "Triplet": []}
+{"ID": "R6193:S000", "Triplet": []}
+{"ID": "R6191:S000", "Triplet": []}
+{"ID": "R6188:S000", "Triplet": [{"Aspect": "環境", "Opinion": "位", "VA": "5.47#5.61"}, {"Aspect": "環境", "Opinion": ",", "VA": "5.47#5.61"}, {"Aspect": "環境", "Opinion": "油", "VA": "5.47#5.61"}, {"Aspect": ":用", "Opinion": "點", "VA": "5.34#5.58"}, {"Aspect": "環境", "Opinion": ":明", "VA": "5.47#5.61"}, {"Aspect": "環境", "Opinion": "太", "VA": "5.47#5.61"}, {"Aspect": "環境", "Opinion": "子醬", "VA": "5.47#5.61"}, {"Aspect": "環境", "Opinion": ",蛤", "VA": "5.47#5.61"}]}
+{"ID": "R6178:S000", "Triplet": [{"Aspect": "淨", "Opinion": ",乾", "VA": "6.35#5.82"}]}
+{"ID": "R6171:S000", "Triplet": []}
+{"ID": "R6169:S001", "Triplet": []}
+{"ID": "R6168:S001", "Triplet": [{"Aspect": "較水", "Opinion": ",", "VA": "5.09#5.54"}, {"Aspect": "較水", "Opinion": "寬麵", "VA": "5.09#5.54"}, {"Aspect": "較水", "Opinion": "起來", "VA": "5.09#5.54"}]}
+{"ID": "R6165:S001", "Triplet": [{"Aspect": "道", "Opinion": "分", "VA": "5.46#5.57"}]}
+{"ID": "R6163:S000", "Triplet": [{"Aspect": "大", "Opinion": "利麵", "VA": "6.21#5.77"}, {"Aspect": "大", "Opinion": "起來", "VA": "6.21#5.77"}]}
+{"ID": "R6160:S000", "Triplet": [{"Aspect": "鮮", "Opinion": "吃", "VA": "6.69#6.73"}, {"Aspect": "鮮", "Opinion": "感覺", "VA": "6.69#6.73"}, {"Aspect": "鮮", "Opinion": "海", "VA": "6.69#6.73"}, {"Aspect": "鮮", "Opinion": "的醬", "VA": "6.69#6.73"}, {"Aspect": "鮮", "Opinion": "真的", "VA": "6.69#6.73"}, {"Aspect": "鮮", "Opinion": "其", "VA": "6.69#6.73"}, {"Aspect": "鮮", "Opinion": "他就", "VA": "6.69#6.73"}, {"Aspect": "鮮", "Opinion": "明太", "VA": "6.69#6.73"}]}
+{"ID": "R6159:S000", "Triplet": [{"Aspect": "手", "Opinion": "意", "VA": "5.18#5.66"}, {"Aspect": "手", "Opinion": "麵口", "VA": "5.18#5.66"}, {"Aspect": "手", "Opinion": "感偏", "VA": "5.18#5.66"}]}
+{"ID": "R6157:S001", "Triplet": [{"Aspect": "很", "Opinion": "分", "VA": "6.58#6.05"}]}
+{"ID": "R6157:S000", "Triplet": [{"Aspect": "一", "Opinion": "太", "VA": "6.01#5.78"}, {"Aspect": "一", "Opinion": "子,", "VA": "6.01#5.78"}, {"Aspect": "粗", "Opinion": ",粗", "VA": "6.11#5.65"}, {"Aspect": "對", "Opinion": "相", "VA": "6.03#5.81"}, {"Aspect": "對", "Opinion": "來說", "VA": "6.03#5.81"}, {"Aspect": "一", "Opinion": "太", "VA": "6.01#5.78"}, {"Aspect": "對", "Opinion": "子吃", "VA": "6.03#5.81"}, {"Aspect": "對", "Opinion": "到", "VA": "6.03#5.81"}, {"Aspect": "對", "Opinion": "後面", "VA": "6.03#5.81"}]}
+{"ID": "R10571:S009", "Triplet": [{"Aspect": "看到", "Opinion": "元", "VA": "6.45#6.03"}, {"Aspect": "看到", "Opinion": "剛", "VA": "6.45#6.03"}, {"Aspect": "看到", "Opinion": "上來", "VA": "6.45#6.03"}, {"Aspect": "看到", "Opinion": "的肉", "VA": "6.45#6.03"}, {"Aspect": "看到", "Opinion": "子", "VA": "6.45#6.03"}]}
+{"ID": "R10571:S008", "Triplet": []}
+{"ID": "R10568:S009", "Triplet": [{"Aspect": "的", "Opinion": "點則", "VA": "6.05#5.82"}, {"Aspect": "的", "Opinion": "是熱", "VA": "6.05#5.82"}, {"Aspect": "的", "Opinion": "是", "VA": "6.05#5.82"}]}
+{"ID": "R10568:S007", "Triplet": []}
+{"ID": "R10568:S006", "Triplet": []}
+{"ID": "R10568:S004", "Triplet": []}
+{"ID": "R10562:S012", "Triplet": []}
+{"ID": "R10562:S009", "Triplet": [{"Aspect": "條", "Opinion": "口", "VA": "4.97#5.47"}, {"Aspect": "條", "Opinion": "感不", "VA": "4.97#5.47"}, {"Aspect": "很", "Opinion": "不過", "VA": "5.37#5.67"}]}
+{"ID": "R10562:S004", "Triplet": []}
+{"ID": "R10562:S003", "Triplet": []}
+{"ID": "R10562:S001", "Triplet": [{"Aspect": "愛", "Opinion": "人不", "VA": "4.11#5.31"}]}
+{"ID": "R10558:S009", "Triplet": [{"Aspect": "家豬", "Opinion": "得", "VA": "6.16#5.50"}, {"Aspect": "家豬", "Opinion": "好", "VA": "6.16#5.50"}, {"Aspect": "家豬", "Opinion": ",新", "VA": "6.16#5.50"}]}
+{"ID": "R10558:S008", "Triplet": []}
+{"ID": "R10558:S002", "Triplet": [{"Aspect": "腐 ", "Opinion": "粉腸", "VA": "5.37#5.56"}]}
+{"ID": "R10555:S009", "Triplet": []}
+{"ID": "R10554:S018", "Triplet": []}
+{"ID": "R10554:S012", "Triplet": [{"Aspect": "覺得", "Opinion": "人更", "VA": "6.12#5.95"}, {"Aspect": "覺得", "Opinion": "味", "VA": "6.12#5.95"}]}
+{"ID": "R10554:S003", "Triplet": []}
+{"ID": "R10549:S005", "Triplet": []}
+{"ID": "R10549:S003", "Triplet": []}
+{"ID": "R10549:S002", "Triplet": []}
+{"ID": "R10545:S014", "Triplet": []}
+{"ID": "R10545:S013", "Triplet": [{"Aspect": "豆花", "Opinion": "我", "VA": "6.33#5.91"}, {"Aspect": "豆花", "Opinion": "就滿", "VA": "6.33#5.91"}, {"Aspect": ",焦", "Opinion": "煮", "VA": "6.40#5.77"}, {"Aspect": ",焦", "Opinion": "得", "VA": "6.40#5.77"}, {"Aspect": ",焦", "Opinion": "錯", "VA": "6.40#5.77"}, {"Aspect": ",焦", "Opinion": "香氣", "VA": "6.40#5.77"}]}
+{"ID": "R10545:S009", "Triplet": [{"Aspect": "的", "Opinion": ",", "VA": "5.07#5.80"}, {"Aspect": "的", "Opinion": "香", "VA": "5.07#5.80"}, {"Aspect": "的", "Opinion": "氣很", "VA": "5.07#5.80"}]}
+{"ID": "R10545:S004", "Triplet": []}
+{"ID": "R10545:S002", "Triplet": []}
+{"ID": "R10539:S001", "Triplet": []}
+{"ID": "R10538:S000", "Triplet": []}
+{"ID": "R10537:S006", "Triplet": []}
+{"ID": "R10537:S005", "Triplet": []}
+{"ID": "R10537:S002", "Triplet": []}
+{"ID": "R10532:S017", "Triplet": []}
+{"ID": "R10532:S016", "Triplet": []}
+{"ID": "R10532:S014", "Triplet": []}
+{"ID": "R10532:S011", "Triplet": []}
+{"ID": "R10532:S009", "Triplet": []}
+{"ID": "R10532:S008", "Triplet": []}
+{"ID": "R10532:S006", "Triplet": []}
+{"ID": "R10529:S002", "Triplet": [{"Aspect": "族", "Opinion": "味", "VA": "6.35#6.17"}]}
+{"ID": "R10526:S017", "Triplet": [{"Aspect": "面的", "Opinion": "感讓", "VA": "6.51#5.93"}]}
+{"ID": "R10526:S014", "Triplet": []}
+{"ID": "R10524:S036", "Triplet": []}
+{"ID": "R10524:S034", "Triplet": [{"Aspect": "蔬菜", "Opinion": "湯紅", "VA": "6.22#5.78"}, {"Aspect": "的", "Opinion": ",", "VA": "6.06#5.75"}, {"Aspect": "道", "Opinion": "裡", "VA": "6.09#5.74"}, {"Aspect": "道", "Opinion": "面就", "VA": "6.09#5.74"}, {"Aspect": "道", "Opinion": "是蘿", "VA": "6.09#5.74"}, {"Aspect": "道", "Opinion": "跟蔬", "VA": "6.09#5.74"}, {"Aspect": "蔬菜", "Opinion": "菜", "VA": "6.22#5.78"}, {"Aspect": "道", "Opinion": ",而", "VA": "6.09#5.74"}]}
+{"ID": "R10524:S027", "Triplet": []}
+{"ID": "R10524:S024", "Triplet": []}
+{"ID": "R10524:S023", "Triplet": [{"Aspect": "看", "Opinion": ",", "VA": "6.16#6.37"}, {"Aspect": "看", "Opinion": "到", "VA": "6.16#6.37"}]}
+{"ID": "R10524:S016", "Triplet": []}
+{"ID": "R10524:S009", "Triplet": [{"Aspect": "從雞", "Opinion": "有", "VA": "6.50#6.01"}, {"Aspect": "從雞", "Opinion": "一", "VA": "6.50#6.01"}, {"Aspect": "從雞", "Opinion": "雖", "VA": "6.50#6.01"}]}
+{"ID": "R10517:S007", "Triplet": [{"Aspect": ",", "Opinion": "份", "VA": "5.70#5.30"}, {"Aspect": ",", "Opinion": "很", "VA": "5.70#5.30"}, {"Aspect": "鹹", "Opinion": ",大", "VA": "5.42#5.18"}, {"Aspect": "鹹", "Opinion": "部份", "VA": "5.42#5.18"}]}
+{"ID": "R10517:S006", "Triplet": []}
+{"ID": "R10517:S005", "Triplet": [{"Aspect": " ", "Opinion": "肉", "VA": "4.48#5.21"}, {"Aspect": "薑", "Opinion": "絲", "VA": "4.78#5.32"}, {"Aspect": " ", "Opinion": " ", "VA": "4.48#5.21"}, {"Aspect": " ", "Opinion": "焢", "VA": "4.48#5.21"}, {"Aspect": " ", "Opinion": "肉", "VA": "4.48#5.21"}, {"Aspect": "炒大", "Opinion": "感", "VA": "4.62#5.29"}, {"Aspect": "炒大", "Opinion": "覺有", "VA": "4.62#5.29"}]}
+{"ID": "R10517:S004", "Triplet": [{"Aspect": "目鍋", "Opinion": ",", "VA": "6.39#5.78"}]}
+{"ID": "R10515:S005", "Triplet": []}
+{"ID": "R10515:S004", "Triplet": []}
+{"ID": "R10515:S002", "Triplet": []}
+{"ID": "R10512:S006", "Triplet": []}
+{"ID": "R10512:S002", "Triplet": []}
+{"ID": "R10511:S007", "Triplet": []}
+{"ID": "R10511:S005", "Triplet": []}
+{"ID": "R10511:S000", "Triplet": []}
+{"ID": "R10509:S000", "Triplet": []}
+{"ID": "R10501:S034", "Triplet": [{"Aspect": "花香", "Opinion": "茶淡", "VA": "6.36#5.70"}]}
+{"ID": "R10501:S031", "Triplet": []}
+{"ID": "R10501:S025", "Triplet": []}
+{"ID": "R10501:S024", "Triplet": []}
+{"ID": "R10501:S021", "Triplet": []}
+{"ID": "R10501:S020", "Triplet": [{"Aspect": "裡的", "Opinion": "質較", "VA": "4.12#5.38"}, {"Aspect": "裡的", "Opinion": "鬆", "VA": "4.12#5.38"}]}
+{"ID": "R10501:S019", "Triplet": []}
+{"ID": "R10501:S016", "Triplet": []}
+{"ID": "R10501:S014", "Triplet": []}
+{"ID": "R10500:S006", "Triplet": []}
+{"ID": "R10500:S003", "Triplet": []}
+{"ID": "R10494:S013", "Triplet": []}
+{"ID": "R10494:S011", "Triplet": []}
+{"ID": "R10494:S010", "Triplet": [{"Aspect": ",", "Opinion": "塔酥", "VA": "6.02#5.64"}, {"Aspect": "旁邊", "Opinion": "的核", "VA": "6.10#5.63"}, {"Aspect": "旁邊", "Opinion": ",中", "VA": "6.10#5.63"}, {"Aspect": "旁邊", "Opinion": "間是", "VA": "6.10#5.63"}, {"Aspect": "旁邊", "Opinion": ",但", "VA": "6.10#5.63"}]}
+{"ID": "R10494:S004", "Triplet": []}
+{"ID": "R10487:S003", "Triplet": []}
+{"ID": "R10486:S005", "Triplet": []}
+{"ID": "R10482:S011", "Triplet": []}
+{"ID": "R10480:S017", "Triplet": [{"Aspect": "的雞", "Opinion": "酥內", "VA": "6.64#6.06"}]}
+{"ID": "R10479:S020", "Triplet": []}
+{"ID": "R10479:S013", "Triplet": []}
+{"ID": "R10479:S004", "Triplet": []}
+{"ID": "R10473:S027", "Triplet": []}
+{"ID": "R10471:S022", "Triplet": []}
+{"ID": "R10471:S021", "Triplet": []}
+{"ID": "R10470:S022", "Triplet": []}
+{"ID": "R10470:S021", "Triplet": []}
+{"ID": "R10470:S018", "Triplet": [{"Aspect": "菜 ", "Opinion": " ", "VA": "6.22#5.72"}, {"Aspect": ") ", "Opinion": "(小", "VA": "6.06#5.64"}]}
+{"ID": "R10470:S017", "Triplet": []}
+{"ID": "R10470:S012", "Triplet": []}
+{"ID": "R10470:S011", "Triplet": []}
+{"ID": "R10470:S006", "Triplet": []}
+{"ID": "R10470:S005", "Triplet": []}
+{"ID": "R10470:S003", "Triplet": [{"Aspect": "擁", "Opinion": ",", "VA": "5.98#5.36"}, {"Aspect": "擁", "Opinion": "但", "VA": "5.98#5.36"}]}
+{"ID": "R10470:S001", "Triplet": []}
+{"ID": "R10467:S009", "Triplet": []}
+{"ID": "R10467:S006", "Triplet": [{"Aspect": "道", "Opinion": "裡面", "VA": "5.82#5.38"}]}
+{"ID": "R10467:S001", "Triplet": []}
+{"ID": "R10466:S009", "Triplet": []}
+{"ID": "R10466:S003", "Triplet": [{"Aspect": "元餛", "Opinion": "5", "VA": "4.86#5.44"}, {"Aspect": "0元", "Opinion": "0元", "VA": "4.81#5.44"}, {"Aspect": "23", "Opinion": " ", "VA": "4.79#5.40"}, {"Aspect": "23", "Opinion": "小", "VA": "4.79#5.40"}, {"Aspect": "元餛", "Opinion": "份鵝", "VA": "4.86#5.44"}, {"Aspect": "23", "Opinion": "肉", "VA": "4.79#5.40"}]}
+{"ID": "R10462:S008", "Triplet": [{"Aspect": "道", "Opinion": "酸", "VA": "6.69#6.36"}, {"Aspect": "道", "Opinion": "味", "VA": "6.69#6.36"}, {"Aspect": "道", "Opinion": "的", "VA": "6.69#6.36"}, {"Aspect": "瓜", "Opinion": ",黃", "VA": "6.47#5.96"}, {"Aspect": "瓜", "Opinion": "脆口", "VA": "6.47#5.96"}, {"Aspect": "瓜", "Opinion": ",香", "VA": "6.47#5.96"}, {"Aspect": "瓜", "Opinion": "菜", "VA": "6.47#5.96"}, {"Aspect": "瓜", "Opinion": "提", "VA": "6.47#5.96"}, {"Aspect": "是", "Opinion": ",", "VA": "6.68#6.38"}]}
+{"ID": "R10462:S006", "Triplet": []}
+{"ID": "R10462:S005", "Triplet": []}
+{"ID": "R10459:S006", "Triplet": [{"Aspect": "間餐", "Opinion": "論你", "VA": "6.60#6.25"}, {"Aspect": "間餐", "Opinion": "得清", "VA": "6.60#6.25"}]}
+{"ID": "R10459:S004", "Triplet": []}
+{"ID": "R10459:S001", "Triplet": [{"Aspect": "拉", "Opinion": "肉", "VA": "6.82#6.47"}, {"Aspect": "拉", "Opinion": "質彈", "VA": "6.82#6.47"}, {"Aspect": "拉", "Opinion": "嫩飽", "VA": "6.82#6.47"}, {"Aspect": "拉", "Opinion": "和", "VA": "6.82#6.47"}, {"Aspect": "拉", "Opinion": "葉", "VA": "6.82#6.47"}, {"Aspect": "拉", "Opinion": ",淋", "VA": "6.82#6.47"}, {"Aspect": "拉", "Opinion": "醬,", "VA": "6.82#6.47"}, {"Aspect": "拉", "Opinion": "都", "VA": "6.82#6.47"}]}
+{"ID": "R10456:S011", "Triplet": [{"Aspect": "個滷", "Opinion": "「", "VA": "6.60#6.62"}, {"Aspect": "個滷", "Opinion": "泰好", "VA": "6.60#6.62"}, {"Aspect": "個滷", "Opinion": "然不", "VA": "6.60#6.62"}]}
+{"ID": "R10456:S009", "Triplet": []}
+{"ID": "R10456:S001", "Triplet": []}
+{"ID": "R10454:S008", "Triplet": [{"Aspect": "糯", "Opinion": "們家", "VA": "7.08#6.58"}, {"Aspect": "糯", "Opinion": "的", "VA": "7.08#6.58"}, {"Aspect": "糯", "Opinion": "椰漿", "VA": "7.08#6.58"}, {"Aspect": "糯", "Opinion": "糯", "VA": "7.08#6.58"}, {"Aspect": "糯", "Opinion": "米", "VA": "7.08#6.58"}]}
+{"ID": "R10454:S007", "Triplet": [{"Aspect": "Q", "Opinion": "得", "VA": "6.15#5.65"}, {"Aspect": "Q", "Opinion": "感", "VA": "6.15#5.65"}]}
+{"ID": "R10454:S006", "Triplet": []}
+{"ID": "R10454:S001", "Triplet": []}
+{"ID": "R10451:S002", "Triplet": []}
+{"ID": "R10448:S036", "Triplet": [{"Aspect": "實橙", "Opinion": ",", "VA": "6.46#5.94"}]}
+{"ID": "R10448:S031", "Triplet": []}
+{"ID": "R10448:S030", "Triplet": []}
+{"ID": "R10448:S029", "Triplet": []}
+{"ID": "R10448:S013", "Triplet": []}
+{"ID": "R10447:S000", "Triplet": []}
+{"ID": "R10435:S000", "Triplet": [{"Aspect": "滿", "Opinion": "淋聖", "VA": "6.52#5.86"}, {"Aspect": "滿", "Opinion": ",雪", "VA": "6.52#5.86"}, {"Aspect": "滿", "Opinion": "味", "VA": "6.52#5.86"}, {"Aspect": "滿", "Opinion": "道", "VA": "6.52#5.86"}, {"Aspect": "滿", "Opinion": "極為", "VA": "6.52#5.86"}, {"Aspect": "滿", "Opinion": ",水", "VA": "6.52#5.86"}, {"Aspect": "滿", "Opinion": "蜜", "VA": "6.52#5.86"}, {"Aspect": "滿", "Opinion": "桃豐", "VA": "6.52#5.86"}, {"Aspect": "滿", "Opinion": ",", "VA": "6.52#5.86"}, {"Aspect": "滿", "Opinion": "淋", "VA": "6.52#5.86"}, {"Aspect": "多", "Opinion": ",龍", "VA": "6.52#5.88"}, {"Aspect": "多", "Opinion": "眼", "VA": "6.52#5.88"}, {"Aspect": "多", "Opinion": "本", "VA": "6.52#5.88"}, {"Aspect": "多", "Opinion": "人好", "VA": "6.52#5.88"}]}
+{"ID": "R10434:S017", "Triplet": []}
+{"ID": "R10434:S015", "Triplet": [{"Aspect": "醬", "Opinion": ",", "VA": "6.51#5.90"}]}
+{"ID": "R10434:S013", "Triplet": [{"Aspect": "濃的", "Opinion": "味", "VA": "6.42#6.01"}, {"Aspect": "濃的", "Opinion": "感", "VA": "6.42#6.01"}]}
+{"ID": "R10434:S011", "Triplet": []}
+{"ID": "R10434:S009", "Triplet": []}
+{"ID": "R10434:S006", "Triplet": []}
+{"ID": "R10434:S005", "Triplet": []}
+{"ID": "R10434:S004", "Triplet": []}
+{"ID": "R10432:S027", "Triplet": []}
+{"ID": "R10432:S014", "Triplet": []}
+{"ID": "R10432:S008", "Triplet": []}
+{"ID": "R10430:S003", "Triplet": []}
+{"ID": "R10423:S012", "Triplet": []}
+{"ID": "R10423:S011", "Triplet": []}
+{"ID": "R10423:S008", "Triplet": []}
+{"ID": "R10423:S002", "Triplet": []}
+{"ID": "R10419:S003", "Triplet": []}
+{"ID": "R10418:S005", "Triplet": []}
+{"ID": "R10400:S000", "Triplet": [{"Aspect": "到湯", "Opinion": "真的", "VA": "6.71#6.48"}]}
+{"ID": "R10399:S005", "Triplet": []}
+{"ID": "R10399:S003", "Triplet": []}
+{"ID": "R10399:S001", "Triplet": [{"Aspect": ",", "Opinion": ",", "VA": "6.68#6.22"}, {"Aspect": "肪", "Opinion": "種肉", "VA": "6.03#5.86"}]}
+{"ID": "R10396:S036", "Triplet": [{"Aspect": "味", "Opinion": ",卻", "VA": "4.69#5.59"}, {"Aspect": "味", "Opinion": "得有", "VA": "4.69#5.59"}]}
+{"ID": "R10396:S015", "Triplet": []}
+{"ID": "R10395:S015", "Triplet": [{"Aspect": "忘的", "Opinion": "到念", "VA": "6.85#6.56"}]}
+{"ID": "R10395:S011", "Triplet": []}
+{"ID": "R10394:S006", "Triplet": []}
+{"ID": "R10394:S005", "Triplet": []}
+{"ID": "R10394:S004", "Triplet": []}
+{"ID": "R10380:S015", "Triplet": []}
+{"ID": "R10380:S006", "Triplet": []}
+{"ID": "R10380:S000", "Triplet": [{"Aspect": "肉", "Opinion": ",", "VA": "6.82#6.39"}, {"Aspect": "肉", "Opinion": "還有", "VA": "6.82#6.39"}]}
+{"ID": "R10378:S000", "Triplet": [{"Aspect": "用", "Opinion": "魚", "VA": "6.36#5.98"}]}
+{"ID": "R10374:S051", "Triplet": []}
+{"ID": "R10374:S047", "Triplet": [{"Aspect": "5", "Opinion": "5", "VA": "6.45#5.81"}, {"Aspect": "5", "Opinion": "靖", "VA": "6.45#5.81"}, {"Aspect": "5", "Opinion": "的", "VA": "6.45#5.81"}, {"Aspect": "很有", "Opinion": "蛋糕", "VA": "6.48#5.86"}, {"Aspect": "很有", "Opinion": "香", "VA": "6.48#5.86"}, {"Aspect": "5", "Opinion": "鮮", "VA": "6.45#5.81"}, {"Aspect": "5", "Opinion": "奶", "VA": "6.45#5.81"}, {"Aspect": "很有", "Opinion": "油細", "VA": "6.48#5.86"}]}
+{"ID": "R10374:S044", "Triplet": [{"Aspect": "款蛋", "Opinion": "捲我", "VA": "7.10#6.79"}, {"Aspect": "款蛋", "Opinion": "們都", "VA": "7.10#6.79"}]}
+{"ID": "R10374:S043", "Triplet": []}
+{"ID": "R10374:S035", "Triplet": []}
+{"ID": "R10374:S030", "Triplet": []}
+{"ID": "R10374:S026", "Triplet": [{"Aspect": "12", "Opinion": "一", "VA": "6.60#6.32"}]}
+{"ID": "R10374:S025", "Triplet": [{"Aspect": "的水", "Opinion": "大", "VA": "6.45#5.93"}, {"Aspect": "的水", "Opinion": "顆", "VA": "6.45#5.93"}, {"Aspect": "的水", "Opinion": ",內", "VA": "6.45#5.93"}, {"Aspect": "這", "Opinion": "飽滿", "VA": "6.26#5.85"}, {"Aspect": "的水", "Opinion": "的", "VA": "6.45#5.93"}, {"Aspect": "這", "Opinion": "樣", "VA": "6.26#5.85"}, {"Aspect": "這", "Opinion": ",豬", "VA": "6.26#5.85"}, {"Aspect": "的水", "Opinion": "餡", "VA": "6.45#5.93"}, {"Aspect": "這", "Opinion": "跟", "VA": "6.26#5.85"}, {"Aspect": "這", "Opinion": "蔥味", "VA": "6.26#5.85"}, {"Aspect": "這", "Opinion": "兒都", "VA": "6.26#5.85"}]}
+{"ID": "R10374:S021", "Triplet": [{"Aspect": "吃", "Opinion": "2", "VA": "6.76#6.17"}, {"Aspect": "吃", "Opinion": "的", "VA": "6.76#6.17"}, {"Aspect": "吃", "Opinion": "醬油", "VA": "6.76#6.17"}, {"Aspect": "吃", "Opinion": "微甜", "VA": "6.76#6.17"}, {"Aspect": "吃", "Opinion": "好吃", "VA": "6.76#6.17"}, {"Aspect": "吃", "Opinion": ",腿", "VA": "6.76#6.17"}]}
+{"ID": "R10374:S019", "Triplet": [{"Aspect": "用", "Opinion": "的", "VA": "6.40#6.27"}]}
+{"ID": "R10372:S029", "Triplet": [{"Aspect": "去", "Opinion": "肉質", "VA": "6.00#5.67"}, {"Aspect": "去", "Opinion": ",價", "VA": "6.00#5.67"}, {"Aspect": "個", "Opinion": "這", "VA": "6.00#5.68"}, {"Aspect": "去", "Opinion": "邊經", "VA": "6.00#5.67"}]}
+{"ID": "R10372:S025", "Triplet": []}
+{"ID": "R10372:S021", "Triplet": []}
+{"ID": "R10372:S011", "Triplet": []}
+{"ID": "R10372:S008", "Triplet": [{"Aspect": "比", "Opinion": "之", "VA": "6.56#6.16"}, {"Aspect": "下", "Opinion": "肉是", "VA": "6.57#6.16"}]}
+{"ID": "R10372:S002", "Triplet": [{"Aspect": "們", "Opinion": "人", "VA": "4.30#4.98"}, {"Aspect": "們", "Opinion": ",我", "VA": "4.30#4.98"}, {"Aspect": "們", "Opinion": "覺", "VA": "4.30#4.98"}]}
+{"ID": "R10365:S011", "Triplet": []}
+{"ID": "R10365:S009", "Triplet": []}
+{"ID": "R10365:S004", "Triplet": [{"Aspect": "燥", "Opinion": "仔肉", "VA": "6.31#5.73"}, {"Aspect": "外", "Opinion": "觀兄", "VA": "6.27#5.68"}, {"Aspect": "燥", "Opinion": "仔肉", "VA": "6.31#5.73"}]}
+{"ID": "R10365:S001", "Triplet": []}
+{"ID": "R10364:S006", "Triplet": []}
+{"ID": "R10364:S004", "Triplet": []}
+{"ID": "R10363:S009", "Triplet": []}
+{"ID": "R10363:S008", "Triplet": []}
+{"ID": "R10363:S001", "Triplet": [{"Aspect": "亮眼", "Opinion": "目", "VA": "7.39#7.24"}, {"Aspect": "亮眼", "Opinion": "前表", "VA": "7.39#7.24"}]}
+{"ID": "R10358:S004", "Triplet": [{"Aspect": "大", "Opinion": "的", "VA": "6.66#6.27"}, {"Aspect": "大", "Opinion": "價", "VA": "6.66#6.27"}, {"Aspect": "大", "Opinion": "格", "VA": "6.66#6.27"}, {"Aspect": "大", "Opinion": "約", "VA": "6.66#6.27"}, {"Aspect": "大", "Opinion": "莫是", "VA": "6.66#6.27"}, {"Aspect": "大", "Opinion": "路", "VA": "6.66#6.27"}, {"Aspect": "大", "Opinion": "的", "VA": "6.66#6.27"}, {"Aspect": "大", "Opinion": "一", "VA": "6.66#6.27"}, {"Aspect": "大", "Opinion": "半", "VA": "6.66#6.27"}, {"Aspect": "大", "Opinion": ",肉", "VA": "6.66#6.27"}, {"Aspect": "大", "Opinion": "人喜", "VA": "6.66#6.27"}]}
+{"ID": "R10355:S010", "Triplet": []}
+{"ID": "R10355:S001", "Triplet": []}
+{"ID": "R10354:S001", "Triplet": [{"Aspect": ":分", "Opinion": "量足", "VA": "6.04#5.57"}, {"Aspect": "4", "Opinion": "境", "VA": "5.99#5.60"}, {"Aspect": ":分", "Opinion": ":", "VA": "6.04#5.57"}, {"Aspect": "4", "Opinion": "/", "VA": "5.99#5.60"}, {"Aspect": "5", "Opinion": "5", "VA": "5.99#5.61"}, {"Aspect": "5", "Opinion": " ", "VA": "5.99#5.61"}, {"Aspect": "5", "Opinion": "空間", "VA": "5.99#5.61"}, {"Aspect": "5", "Opinion": "敞、", "VA": "5.99#5.61"}, {"Aspect": "5", "Opinion": "5", "VA": "5.99#5.61"}, {"Aspect": "5", "Opinion": " ", "VA": "5.99#5.61"}, {"Aspect": "5", "Opinion": "5", "VA": "5.99#5.61"}, {"Aspect": "4", "Opinion": "/", "VA": "5.99#5.60"}, {"Aspect": "5", "Opinion": "價格", "VA": "5.99#5.61"}]}
+{"ID": "R10352:S004", "Triplet": [{"Aspect": "牌炒", "Opinion": "粒", "VA": "6.72#6.43"}, {"Aspect": "牌炒", "Opinion": "明,", "VA": "6.72#6.43"}]}
+{"ID": "R10352:S003", "Triplet": []}
+{"ID": "R10349:S006", "Triplet": [{"Aspect": "些牛", "Opinion": ",", "VA": "4.77#5.47"}]}
+{"ID": "R10349:S005", "Triplet": [{"Aspect": "家", "Opinion": "的", "VA": "6.56#6.10"}]}
+{"ID": "R10349:S003", "Triplet": []}
+{"ID": "R10349:S001", "Triplet": []}
+{"ID": "R10348:S013", "Triplet": []}
+{"ID": "R10348:S010", "Triplet": []}
+{"ID": "R10348:S004", "Triplet": []}
+{"ID": "R10348:S001", "Triplet": []}
+{"ID": "R10346:S004", "Triplet": []}
+{"ID": "R10346:S003", "Triplet": [{"Aspect": "40", "Opinion": "元", "VA": "5.44#5.72"}, {"Aspect": "40", "Opinion": "▼玉", "VA": "5.44#5.72"}, {"Aspect": "40", "Opinion": "片好", "VA": "5.44#5.72"}, {"Aspect": "40", "Opinion": "吃", "VA": "5.44#5.72"}, {"Aspect": "40", "Opinion": ",酪", "VA": "5.44#5.72"}]}
+{"ID": "R10346:S001", "Triplet": []}
+{"ID": "R10345:S015", "Triplet": []}
+{"ID": "R10345:S014", "Triplet": [{"Aspect": "烏龍", "Opinion": "者", "VA": "6.26#5.81"}, {"Aspect": "烏龍", "Opinion": "感跟", "VA": "6.26#5.81"}]}
+{"ID": "R10338:S041", "Triplet": []}
+{"ID": "R10338:S037", "Triplet": []}
+{"ID": "R10338:S035", "Triplet": [{"Aspect": "肉質", "Opinion": "都", "VA": "6.49#6.13"}, {"Aspect": "肉質", "Opinion": "又", "VA": "6.49#6.13"}]}
+{"ID": "R10338:S032", "Triplet": []}
+{"ID": "R10338:S031", "Triplet": []}
+{"ID": "R10338:S027", "Triplet": [{"Aspect": "們桌", "Opinion": "得不", "VA": "6.18#5.68"}]}
+{"ID": "R10338:S024", "Triplet": []}
+{"ID": "R10338:S009", "Triplet": [{"Aspect": ",裝", "Opinion": "潢溫", "VA": "6.28#5.54"}]}
+{"ID": "R10337:S008", "Triplet": []}
+{"ID": "R10335:S047", "Triplet": [{"Aspect": "棒", "Opinion": ",可", "VA": "4.37#5.63"}]}
+{"ID": "R10335:S045", "Triplet": []}
+{"ID": "R10335:S040", "Triplet": []}
+{"ID": "R10335:S003", "Triplet": []}
+{"ID": "R10331:S007", "Triplet": [{"Aspect": "但醬", "Opinion": "色", "VA": "5.62#5.33"}]}
+{"ID": "R10331:S005", "Triplet": []}
+{"ID": "R10331:S004", "Triplet": []}
+{"ID": "R10330:S009", "Triplet": []}
+{"ID": "R10330:S004", "Triplet": []}
+{"ID": "R10329:S022", "Triplet": [{"Aspect": "格", "Opinion": "價清", "VA": "6.25#5.47"}, {"Aspect": "格", "Opinion": "、價", "VA": "6.25#5.47"}]}
+{"ID": "R10329:S019", "Triplet": [{"Aspect": "的色", "Opinion": "肉", "VA": "6.46#5.90"}]}
+{"ID": "R10329:S018", "Triplet": []}
+{"ID": "R10329:S013", "Triplet": []}
+{"ID": "R10329:S008", "Triplet": [{"Aspect": "0", "Opinion": "5", "VA": "6.65#6.25"}, {"Aspect": ")尺", "Opinion": "普通", "VA": "6.54#6.12"}, {"Aspect": ")尺", "Opinion": "蛤", "VA": "6.54#6.12"}, {"Aspect": ")尺", "Opinion": "蜊的", "VA": "6.54#6.12"}, {"Aspect": ")尺", "Opinion": "、", "VA": "6.54#6.12"}, {"Aspect": ")尺", "Opinion": "4倍", "VA": "6.54#6.12"}]}
+{"ID": "R10329:S007", "Triplet": []}
+{"ID": "R10328:S004", "Triplet": []}
+{"ID": "R10328:S002", "Triplet": [{"Aspect": "1", "Opinion": "6", "VA": "6.27#5.66"}, {"Aspect": "1", "Opinion": "0", "VA": "6.27#5.66"}, {"Aspect": "1", "Opinion": "這杯", "VA": "6.27#5.66"}, {"Aspect": "1", "Opinion": "品", "VA": "6.27#5.66"}]}
+{"ID": "R10326:S039", "Triplet": []}
+{"ID": "R10326:S021", "Triplet": []}
+{"ID": "R10326:S019", "Triplet": [{"Aspect": "片洋", "Opinion": "充", "VA": "6.56#5.94"}]}
+{"ID": "R10326:S015", "Triplet": []}
+{"ID": "R10326:S001", "Triplet": [{"Aspect": "簾", "Opinion": "遠", "VA": "6.59#6.31"}]}
+{"ID": "R10326:S000", "Triplet": []}
+{"ID": "R10325:S001", "Triplet": [{"Aspect": "大", "Opinion": "豆", "VA": "7.00#6.83"}, {"Aspect": "大", "Opinion": "腐,", "VA": "7.00#6.83"}, {"Aspect": "大", "Opinion": "外", "VA": "7.00#6.83"}, {"Aspect": "大", "Opinion": "做四", "VA": "7.00#6.83"}, {"Aspect": "大", "Opinion": "分", "VA": "7.00#6.83"}, {"Aspect": "大", "Opinion": "塊,", "VA": "7.00#6.83"}, {"Aspect": "大", "Opinion": "外", "VA": "7.00#6.83"}, {"Aspect": "大", "Opinion": "皮", "VA": "7.00#6.83"}, {"Aspect": "大", "Opinion": "炸得", "VA": "7.00#6.83"}, {"Aspect": "大", "Opinion": "油", "VA": "7.00#6.83"}, {"Aspect": "大", "Opinion": "裡頭", "VA": "7.00#6.83"}]}
+{"ID": "R10317:S016", "Triplet": []}
+{"ID": "R10317:S015", "Triplet": [{"Aspect": "的味", "Opinion": "噌甘", "VA": "6.43#5.77"}]}
+{"ID": "R10317:S009", "Triplet": [{"Aspect": "一", "Opinion": ",", "VA": "5.49#5.24"}]}
+{"ID": "R10314:S006", "Triplet": []}
+{"ID": "R10314:S004", "Triplet": [{"Aspect": "干", "Opinion": "膽", "VA": "6.59#6.04"}, {"Aspect": "干", "Opinion": "醬", "VA": "6.59#6.04"}, {"Aspect": "干", "Opinion": "的", "VA": "6.59#6.04"}, {"Aspect": "干", "Opinion": "海膽", "VA": "6.59#6.04"}, {"Aspect": "干", "Opinion": "醬", "VA": "6.59#6.04"}]}
+{"ID": "R10314:S003", "Triplet": []}
+{"ID": "R10314:S002", "Triplet": []}
+{"ID": "R10313:S011", "Triplet": []}
+{"ID": "R10309:S006", "Triplet": []}
+{"ID": "R10308:S003", "Triplet": []}
+{"ID": "R10295:S006", "Triplet": []}
+{"ID": "R10288:S019", "Triplet": []}
+{"ID": "R10288:S010", "Triplet": []}
+{"ID": "R10288:S008", "Triplet": []}
+{"ID": "R10287:S002", "Triplet": []}
+{"ID": "R10284:S009", "Triplet": [{"Aspect": "皮", "Opinion": "果", "VA": "6.22#5.65"}, {"Aspect": "脆而", "Opinion": ",外", "VA": "6.00#5.43"}, {"Aspect": "不厚", "Opinion": "且", "VA": "6.23#5.62"}, {"Aspect": "不厚", "Opinion": "調", "VA": "6.23#5.62"}, {"Aspect": "不厚", "Opinion": "味", "VA": "6.23#5.62"}, {"Aspect": "質", "Opinion": "足,", "VA": "6.44#5.77"}]}
+{"ID": "R10284:S006", "Triplet": []}
+{"ID": "R10275:S000", "Triplet": []}
+{"ID": "R10274:S007", "Triplet": []}
+{"ID": "R10274:S004", "Triplet": []}
+{"ID": "R10267:S004", "Triplet": [{"Aspect": ",", "Opinion": "味", "VA": "4.42#5.69"}]}
+{"ID": "R10267:S002", "Triplet": []}
+{"ID": "R10265:S002", "Triplet": []}
+{"ID": "R10265:S000", "Triplet": []}
+{"ID": "R10263:S000", "Triplet": []}
+{"ID": "R10261:S006", "Triplet": []}
+{"ID": "R10260:S007", "Triplet": []}
+{"ID": "R10260:S005", "Triplet": []}
+{"ID": "R10260:S004", "Triplet": []}
+{"ID": "R10259:S011", "Triplet": []}
+{"ID": "R10259:S005", "Triplet": []}
+{"ID": "R10259:S003", "Triplet": [{"Aspect": "環", "Opinion": "境", "VA": "6.15#5.73"}]}
+{"ID": "R10255:S025", "Triplet": []}
+{"ID": "R10255:S023", "Triplet": [{"Aspect": "好處", "Opinion": "握得", "VA": "6.77#6.35"}, {"Aspect": "好處", "Opinion": "感", "VA": "6.77#6.35"}]}
+{"ID": "R10255:S022", "Triplet": []}
+{"ID": "R10255:S015", "Triplet": []}
+{"ID": "R10255:S007", "Triplet": [{"Aspect": "菠菜", "Opinion": "本", "VA": "6.54#6.04"}, {"Aspect": "菠菜", "Opinion": "體仍", "VA": "6.54#6.04"}, {"Aspect": "菠菜", "Opinion": ",", "VA": "6.54#6.04"}, {"Aspect": "菠菜", "Opinion": "吃", "VA": "6.54#6.04"}, {"Aspect": "菠菜", "Opinion": "起來", "VA": "6.54#6.04"}]}
+{"ID": "R10254:S006", "Triplet": [{"Aspect": "當天", "Opinion": "點地", "VA": "5.97#5.80"}, {"Aspect": "當天", "Opinion": "菜,", "VA": "5.97#5.80"}, {"Aspect": "當天", "Opinion": "!", "VA": "5.97#5.80"}, {"Aspect": "當天", "Opinion": "3", "VA": "5.97#5.80"}, {"Aspect": "當天", "Opinion": "0", "VA": "5.97#5.80"}, {"Aspect": "當天", "Opinion": "元", "VA": "5.97#5.80"}, {"Aspect": "當天", "Opinion": " ", "VA": "5.97#5.80"}, {"Aspect": "當天", "Opinion": "▼蘿", "VA": "5.97#5.80"}, {"Aspect": "當天", "Opinion": "塊,", "VA": "5.97#5.80"}, {"Aspect": "當天", "Opinion": "味", "VA": "5.97#5.80"}, {"Aspect": "當天", "Opinion": "道小", "VA": "5.97#5.80"}]}
+{"ID": "R10254:S004", "Triplet": [{"Aspect": "元", "Opinion": "麵 ", "VA": "5.88#5.55"}, {"Aspect": "元", "Opinion": "麻", "VA": "5.88#5.55"}, {"Aspect": "元", "Opinion": " ", "VA": "5.88#5.55"}, {"Aspect": "元", "Opinion": "50", "VA": "5.88#5.55"}]}
+{"ID": "R10254:S002", "Triplet": []}
+{"ID": "R10252:S073", "Triplet": [{"Aspect": "和牛", "Opinion": "雖", "VA": "6.36#5.98"}, {"Aspect": "和牛", "Opinion": "脂較", "VA": "6.36#5.98"}, {"Aspect": "和牛", "Opinion": ",", "VA": "6.36#5.98"}]}
+{"ID": "R10252:S068", "Triplet": []}
+{"ID": "R10252:S060", "Triplet": []}
+{"ID": "R10252:S057", "Triplet": [{"Aspect": "是海", "Opinion": "膽,", "VA": "5.83#5.67"}, {"Aspect": "是海", "Opinion": "家店", "VA": "5.83#5.67"}]}
+{"ID": "R10252:S055", "Triplet": []}
+{"ID": "R10252:S052", "Triplet": []}
+{"ID": "R10252:S051", "Triplet": []}
+{"ID": "R10252:S034", "Triplet": [{"Aspect": "厚的", "Opinion": "油", "VA": "5.62#5.39"}, {"Aspect": "厚的", "Opinion": "脂較", "VA": "5.62#5.39"}]}
+{"ID": "R10252:S031", "Triplet": []}
+{"ID": "R10252:S008", "Triplet": []}
+{"ID": "R10252:S007", "Triplet": []}
+{"ID": "R10252:S001", "Triplet": [{"Aspect": "招", "Opinion": "出懷", "VA": "6.55#6.38"}]}
+{"ID": "R10246:S034", "Triplet": []}
+{"ID": "R10246:S031", "Triplet": []}
+{"ID": "R10246:S030", "Triplet": []}
+{"ID": "R10246:S029", "Triplet": []}
+{"ID": "R10246:S022", "Triplet": []}
+{"ID": "R10246:S020", "Triplet": []}
+{"ID": "R10241:S002", "Triplet": []}
+{"ID": "R10236:S014", "Triplet": []}
+{"ID": "R10236:S009", "Triplet": []}
+{"ID": "R10235:S008", "Triplet": []}
+{"ID": "R10231:S003", "Triplet": []}
+{"ID": "R10231:S000", "Triplet": []}
+{"ID": "R10227:S002", "Triplet": []}
+{"ID": "R10215:S017", "Triplet": []}
+{"ID": "R10215:S016", "Triplet": []}
+{"ID": "R10215:S001", "Triplet": []}
+{"ID": "R10214:S004", "Triplet": [{"Aspect": "主", "Opinion": "出", "VA": "6.00#5.48"}, {"Aspect": "主", "Opinion": "鳳", "VA": "6.00#5.48"}, {"Aspect": "主", "Opinion": "梨", "VA": "6.00#5.48"}, {"Aspect": "主", "Opinion": "酸", "VA": "6.00#5.48"}, {"Aspect": "主", "Opinion": "能", "VA": "6.00#5.48"}, {"Aspect": "主", "Opinion": "吃", "VA": "6.00#5.48"}, {"Aspect": "主", "Opinion": "到鳳", "VA": "6.00#5.48"}]}
+{"ID": "R10213:S011", "Triplet": []}
+{"ID": "R10213:S009", "Triplet": []}
+{"ID": "R10213:S007", "Triplet": [{"Aspect": "葉", "Opinion": "子", "VA": "6.56#6.06"}, {"Aspect": "肉", "Opinion": ",蒸", "VA": "6.58#6.08"}, {"Aspect": "過", "Opinion": "後米", "VA": "6.60#6.09"}, {"Aspect": "過", "Opinion": ",米", "VA": "6.60#6.09"}]}
+{"ID": "R10211:S034", "Triplet": []}
+{"ID": "R10211:S032", "Triplet": []}
+{"ID": "R10211:S023", "Triplet": []}
+{"ID": "R10211:S007", "Triplet": []}
+{"ID": "R10206:S000", "Triplet": [{"Aspect": "最近", "Opinion": "還", "VA": "6.60#6.22"}, {"Aspect": "最近", "Opinion": "是紅", "VA": "6.60#6.22"}]}
+{"ID": "R10198:S021", "Triplet": [{"Aspect": "裡的", "Opinion": "點", "VA": "6.56#5.97"}]}
+{"ID": "R10191:S011", "Triplet": []}
+{"ID": "R10191:S008", "Triplet": []}
+{"ID": "R10191:S001", "Triplet": []}
+{"ID": "R10186:S012", "Triplet": [{"Aspect": "的桔", "Opinion": "醬是", "VA": "6.50#5.97"}, {"Aspect": "的桔", "Opinion": "好", "VA": "6.50#5.97"}]}
+{"ID": "R10186:S008", "Triplet": []}
+{"ID": "R10186:S003", "Triplet": [{"Aspect": "肉飯", "Opinion": "鴨", "VA": "6.43#6.01"}, {"Aspect": " ", "Opinion": " ", "VA": "6.33#5.80"}, {"Aspect": "肉飯", "Opinion": "9", "VA": "6.43#6.01"}, {"Aspect": "肉飯", "Opinion": "Q彈", "VA": "6.43#6.01"}, {"Aspect": "肉飯", "Opinion": "湯", "VA": "6.43#6.01"}, {"Aspect": "肉飯", "Opinion": "頭", "VA": "6.43#6.01"}, {"Aspect": "肉飯", "Opinion": "或有", "VA": "6.43#6.01"}, {"Aspect": "肉飯", "Opinion": "大骨", "VA": "6.43#6.01"}]}
+{"ID": "R10182:S015", "Triplet": [{"Aspect": "意", "Opinion": "的清", "VA": "6.56#5.94"}]}
+{"ID": "R10182:S005", "Triplet": [{"Aspect": "裡的", "Opinion": "的", "VA": "6.75#6.20"}, {"Aspect": "裡的", "Opinion": "名字", "VA": "6.75#6.20"}]}
+{"ID": "R10182:S003", "Triplet": []}
+{"ID": "R10182:S001", "Triplet": []}
+{"ID": "R10180:S014", "Triplet": []}
+{"ID": "R10180:S006", "Triplet": [{"Aspect": "大菜", "Opinion": "才會", "VA": "5.55#5.44"}]}
+{"ID": "R10180:S000", "Triplet": []}
+{"ID": "R10179:S008", "Triplet": []}
+{"ID": "R10179:S007", "Triplet": [{"Aspect": "杯", "Opinion": "料大", "VA": "6.44#5.91"}]}
+{"ID": "R10179:S006", "Triplet": [{"Aspect": "!!", "Opinion": "超", "VA": "6.78#6.42"}, {"Aspect": "!!", "Opinion": ",這", "VA": "6.78#6.42"}, {"Aspect": "!!", "Opinion": "是我", "VA": "6.78#6.42"}]}
+{"ID": "R10179:S000", "Triplet": []}
+{"ID": "R10177:S002", "Triplet": [{"Aspect": "嫩豆", "Opinion": "料都", "VA": "6.76#6.20"}, {"Aspect": "嫩豆", "Opinion": "真的", "VA": "6.76#6.20"}]}
+{"ID": "R10177:S000", "Triplet": []}
+{"ID": "R10172:S008", "Triplet": [{"Aspect": "、", "Opinion": "、", "VA": "6.61#6.08"}]}
+{"ID": "R10172:S007", "Triplet": []}
+{"ID": "R10172:S000", "Triplet": []}
+{"ID": "R10171:S006", "Triplet": []}
+{"ID": "R10167:S029", "Triplet": []}
+{"ID": "R10167:S020", "Triplet": [{"Aspect": "現鴨", "Opinion": "肉質", "VA": "6.67#6.19"}, {"Aspect": "現鴨", "Opinion": "嫩", "VA": "6.67#6.19"}, {"Aspect": "現鴨", "Opinion": "滑", "VA": "6.67#6.19"}]}
+{"ID": "R10167:S017", "Triplet": []}
+{"ID": "R10167:S010", "Triplet": []}
+{"ID": "R10167:S005", "Triplet": [{"Aspect": "是鴨", "Opinion": "結", "VA": "6.81#6.49"}, {"Aspect": "是鴨", "Opinion": "合了", "VA": "6.81#6.49"}, {"Aspect": "的蔬", "Opinion": "、新", "VA": "6.61#6.10"}]}
+{"ID": "R10166:S046", "Triplet": [{"Aspect": "道", "Opinion": "起", "VA": "6.03#5.67"}, {"Aspect": "道", "Opinion": "是蠻", "VA": "6.03#5.67"}]}
+{"ID": "R10166:S036", "Triplet": []}
+{"ID": "R10166:S033", "Triplet": []}
+{"ID": "R10166:S032", "Triplet": []}
+{"ID": "R10166:S026", "Triplet": [{"Aspect": "臘腸", "Opinion": "吧", "VA": "5.46#5.32"}, {"Aspect": "臘腸", "Opinion": ",味", "VA": "5.46#5.32"}]}
+{"ID": "R10166:S024", "Triplet": [{"Aspect": "看", "Opinion": "飯", "VA": "5.73#5.48"}, {"Aspect": "看", "Opinion": ",", "VA": "5.73#5.48"}, {"Aspect": "看", "Opinion": "起", "VA": "5.73#5.48"}, {"Aspect": "看", "Opinion": "來還", "VA": "5.73#5.48"}, {"Aspect": "看", "Opinion": "K,", "VA": "5.73#5.48"}, {"Aspect": "看", "Opinion": "米", "VA": "5.73#5.48"}, {"Aspect": "看", "Opinion": "看", "VA": "5.73#5.48"}]}
+{"ID": "R10166:S022", "Triplet": []}
+{"ID": "R10166:S021", "Triplet": []}
+{"ID": "R10166:S018", "Triplet": [{"Aspect": "個瓜", "Opinion": ",", "VA": "5.95#5.64"}]}
+{"ID": "R10166:S017", "Triplet": [{"Aspect": "其", "Opinion": "實", "VA": "6.12#5.61"}, {"Aspect": "其", "Opinion": "是牛", "VA": "6.12#5.61"}, {"Aspect": "其", "Opinion": "肉)", "VA": "6.12#5.61"}, {"Aspect": "其", "Opinion": "的", "VA": "6.12#5.61"}]}
+{"ID": "R10166:S015", "Triplet": [{"Aspect": "起", "Opinion": "來就", "VA": "6.61#6.17"}]}
+{"ID": "R10166:S014", "Triplet": [{"Aspect": "邊上", "Opinion": "度", "VA": "6.35#6.09"}]}
+{"ID": "R10166:S013", "Triplet": []}
+{"ID": "R10166:S012", "Triplet": []}
+{"ID": "R10162:S018", "Triplet": []}
+{"ID": "R10162:S008", "Triplet": [{"Aspect": "饗", "Opinion": "發", "VA": "6.44#6.18"}]}
+{"ID": "R10160:S000", "Triplet": []}
+{"ID": "R10159:S007", "Triplet": []}
+{"ID": "R10155:S014", "Triplet": [{"Aspect": "鱸", "Opinion": "的", "VA": "6.77#6.19"}]}
+{"ID": "R10155:S010", "Triplet": []}
+{"ID": "R10155:S006", "Triplet": []}
+{"ID": "R10155:S004", "Triplet": []}
+{"ID": "R10155:S003", "Triplet": []}
+{"ID": "R10153:S012", "Triplet": []}
+{"ID": "R10153:S005", "Triplet": []}
+{"ID": "R10152:S014", "Triplet": []}
+{"ID": "R10152:S001", "Triplet": []}
+{"ID": "R10149:S011", "Triplet": []}
+{"ID": "R10149:S007", "Triplet": []}
+{"ID": "R10149:S003", "Triplet": []}
+{"ID": "R10147:S037", "Triplet": []}
+{"ID": "R10147:S035", "Triplet": []}
+{"ID": "R10147:S017", "Triplet": [{"Aspect": "大", "Opinion": "利", "VA": "6.19#5.92"}, {"Aspect": "大", "Opinion": ",", "VA": "6.19#5.92"}, {"Aspect": "大", "Opinion": "位略", "VA": "6.19#5.92"}]}
+{"ID": "R10147:S012", "Triplet": []}
+{"ID": "R10147:S002", "Triplet": []}
+{"ID": "R10133:S003", "Triplet": [{"Aspect": "、", "Opinion": "且", "VA": "6.91#6.46"}, {"Aspect": "、", "Opinion": "的", "VA": "6.91#6.46"}]}
+{"ID": "R10130:S007", "Triplet": []}
+{"ID": "R10130:S005", "Triplet": []}
+{"ID": "R10126:S008", "Triplet": [{"Aspect": "愛玉", "Opinion": "吃", "VA": "6.37#5.77"}, {"Aspect": "愛玉", "Opinion": "起來", "VA": "6.37#5.77"}, {"Aspect": "愛玉", "Opinion": "和", "VA": "6.37#5.77"}, {"Aspect": "愛玉", "Opinion": "粉那", "VA": "6.37#5.77"}, {"Aspect": "愛玉", "Opinion": "配還", "VA": "6.37#5.77"}]}
+{"ID": "R10126:S003", "Triplet": []}
+{"ID": "R10126:S002", "Triplet": [{"Aspect": "祥", "Opinion": "物", "VA": "6.87#6.81"}]}
+{"ID": "R10123:S002", "Triplet": []}
+{"ID": "R10123:S001", "Triplet": []}
+{"ID": "R10122:S012", "Triplet": [{"Aspect": "湯", "Opinion": "最", "VA": "7.16#7.00"}, {"Aspect": "湯", "Opinion": "佳", "VA": "7.16#7.00"}, {"Aspect": "湯", "Opinion": ",涼", "VA": "7.16#7.00"}]}
+{"ID": "R10122:S005", "Triplet": []}
+{"ID": "R10121:S006", "Triplet": []}
+{"ID": "R10121:S000", "Triplet": [{"Aspect": "像", "Opinion": "茄", "VA": "6.47#6.09"}, {"Aspect": "像", "Opinion": "子", "VA": "6.47#6.09"}, {"Aspect": "像", "Opinion": "口", "VA": "6.47#6.09"}, {"Aspect": "像", "Opinion": "感薄", "VA": "6.47#6.09"}, {"Aspect": "像", "Opinion": "而", "VA": "6.47#6.09"}, {"Aspect": "像", "Opinion": "裡頭", "VA": "6.47#6.09"}]}
+{"ID": "R10120:S039", "Triplet": []}
+{"ID": "R10120:S019", "Triplet": []}
+{"ID": "R10119:S006", "Triplet": []}
+{"ID": "R10110:S012", "Triplet": []}
+{"ID": "R10110:S005", "Triplet": []}
+{"ID": "R10110:S003", "Triplet": [{"Aspect": "點鍋", "Opinion": "道很", "VA": "6.15#5.56"}, {"Aspect": "點鍋", "Opinion": "好", "VA": "6.15#5.56"}, {"Aspect": "點鍋", "Opinion": ",有", "VA": "6.15#5.56"}]}
+{"ID": "R10110:S001", "Triplet": []}
+{"ID": "R10103:S005", "Triplet": []}
+{"ID": "R10103:S004", "Triplet": []}
+{"ID": "R10102:S005", "Triplet": [{"Aspect": "的雞", "Opinion": "過很", "VA": "5.85#6.28"}]}
+{"ID": "R10099:S030", "Triplet": []}
+{"ID": "R10099:S024", "Triplet": []}
+{"ID": "R10099:S019", "Triplet": []}
+{"ID": "R10099:S017", "Triplet": []}
+{"ID": "R10099:S013", "Triplet": [{"Aspect": "啊奶", "Opinion": "油神", "VA": "6.61#6.28"}]}
+{"ID": "R10099:S009", "Triplet": []}
+{"ID": "R10098:S000", "Triplet": []}
+{"ID": "R10097:S004", "Triplet": [{"Aspect": "糖", "Opinion": ",", "VA": "6.64#6.08"}, {"Aspect": "糖", "Opinion": "下", "VA": "6.64#6.08"}, {"Aspect": "糖", "Opinion": "層", "VA": "6.64#6.08"}, {"Aspect": "糖", "Opinion": "是", "VA": "6.64#6.08"}, {"Aspect": "糖", "Opinion": "甜、", "VA": "6.64#6.08"}]}
+{"ID": "R10092:S009", "Triplet": []}
+{"ID": "R10092:S006", "Triplet": []}
+{"ID": "R10092:S003", "Triplet": []}
+{"ID": "R10092:S001", "Triplet": []}
+{"ID": "R10092:S000", "Triplet": [{"Aspect": "會口", "Opinion": "味", "VA": "5.17#5.36"}, {"Aspect": "會口", "Opinion": "但", "VA": "5.17#5.36"}]}
+{"ID": "R10090:S026", "Triplet": []}
+{"ID": "R10090:S025", "Triplet": []}
+{"ID": "R10090:S017", "Triplet": [{"Aspect": "軟Q", "Opinion": ",", "VA": "6.59#6.17"}]}
+{"ID": "R10090:S008", "Triplet": []}
+{"ID": "R10090:S005", "Triplet": []}
+{"ID": "R10089:S008", "Triplet": [{"Aspect": "或許", "Opinion": "吃", "VA": "5.19#5.94"}, {"Aspect": "或許", "Opinion": "來無", "VA": "5.19#5.94"}]}
+{"ID": "R10089:S007", "Triplet": [{"Aspect": "高麗", "Opinion": ",", "VA": "6.08#5.65"}]}
+{"ID": "R10089:S006", "Triplet": []}
+{"ID": "R10089:S005", "Triplet": [{"Aspect": " ", "Opinion": " ", "VA": "6.28#5.92"}]}
+{"ID": "R10089:S004", "Triplet": []}
+{"ID": "R10088:S000", "Triplet": []}
+{"ID": "R10086:S011", "Triplet": []}
+{"ID": "R10081:S002", "Triplet": []}
+{"ID": "R10080:S009", "Triplet": []}
+{"ID": "R10080:S008", "Triplet": []}
+{"ID": "R10080:S003", "Triplet": []}
+{"ID": "R10079:S019", "Triplet": []}
+{"ID": "R10075:S001", "Triplet": [{"Aspect": "口擺", "Opinion": "設很", "VA": "6.31#5.90"}]}
+{"ID": "R10072:S018", "Triplet": [{"Aspect": "的「", "Opinion": "顧", "VA": "6.63#6.06"}, {"Aspect": "的「", "Opinion": "客好", "VA": "6.63#6.06"}, {"Aspect": "的「", "Opinion": "肉", "VA": "6.63#6.06"}, {"Aspect": "的「", "Opinion": "」相", "VA": "6.63#6.06"}, {"Aspect": "人驚", "Opinion": "當", "VA": "6.73#6.27"}, {"Aspect": "人驚", "Opinion": ",肥", "VA": "6.73#6.27"}, {"Aspect": "口", "Opinion": "即", "VA": "6.40#5.72"}, {"Aspect": "口", "Opinion": "口感", "VA": "6.40#5.72"}, {"Aspect": "口", "Opinion": "味令", "VA": "6.40#5.72"}, {"Aspect": "口", "Opinion": "人意", "VA": "6.40#5.72"}]}
+{"ID": "R10072:S017", "Triplet": [{"Aspect": "性", "Opinion": "內層", "VA": "6.38#5.68"}]}
+{"ID": "R10072:S013", "Triplet": []}
+{"ID": "R10072:S009", "Triplet": []}
+{"ID": "R10072:S004", "Triplet": []}
+{"ID": "R10072:S000", "Triplet": []}
+{"ID": "R10067:S013", "Triplet": [{"Aspect": "好像", "Opinion": "點西", "VA": "5.68#5.80"}, {"Aspect": "我", "Opinion": "湯", "VA": "6.09#5.95"}]}
+{"ID": "R10067:S001", "Triplet": [{"Aspect": "桌", "Opinion": ",桌", "VA": "4.43#5.39"}]}
+{"ID": "R10065:S021", "Triplet": []}
+{"ID": "R10065:S017", "Triplet": []}
+{"ID": "R10064:S003", "Triplet": []}
+{"ID": "R10063:S005", "Triplet": []}
+{"ID": "R10063:S003", "Triplet": []}
+{"ID": "R10060:S012", "Triplet": [{"Aspect": "環", "Opinion": "乾", "VA": "5.89#5.40"}, {"Aspect": "口", "Opinion": "淨", "VA": "5.50#5.56"}, {"Aspect": "口", "Opinion": "味", "VA": "5.50#5.56"}, {"Aspect": "穩健", "Opinion": "份量", "VA": "5.57#5.51"}, {"Aspect": "穩健", "Opinion": "早餐", "VA": "5.57#5.51"}]}
+{"ID": "R10060:S009", "Triplet": [{"Aspect": "道餐", "Opinion": "稍", "VA": "6.35#6.22"}, {"Aspect": "道餐", "Opinion": "貴,", "VA": "6.35#6.22"}, {"Aspect": "道餐", "Opinion": "塊", "VA": "6.35#6.22"}]}
+{"ID": "R10058:S027", "Triplet": [{"Aspect": "和牛", "Opinion": "的蠻", "VA": "6.17#5.93"}]}
+{"ID": "R10058:S026", "Triplet": []}
+{"ID": "R10058:S025", "Triplet": []}
+{"ID": "R10058:S024", "Triplet": []}
+{"ID": "R10058:S019", "Triplet": [{"Aspect": "覺得", "Opinion": "邊緣", "VA": "6.62#6.30"}, {"Aspect": "覺得", "Opinion": "牛", "VA": "6.62#6.30"}, {"Aspect": "覺得", "Opinion": "這", "VA": "6.62#6.30"}, {"Aspect": "覺得", "Opinion": "個肉", "VA": "6.62#6.30"}, {"Aspect": "覺得", "Opinion": "品", "VA": "6.62#6.30"}, {"Aspect": "覺得", "Opinion": "很", "VA": "6.62#6.30"}, {"Aspect": "覺得", "Opinion": "超", "VA": "6.62#6.30"}, {"Aspect": "覺得", "Opinion": "值,", "VA": "6.62#6.30"}, {"Aspect": "覺得", "Opinion": "很嫩", "VA": "6.62#6.30"}]}
+{"ID": "R10058:S016", "Triplet": [{"Aspect": "了", "Opinion": ",肉", "VA": "4.22#5.55"}, {"Aspect": "了", "Opinion": "的品", "VA": "4.22#5.55"}, {"Aspect": "了", "Opinion": "質還", "VA": "4.22#5.55"}]}
+{"ID": "R10058:S015", "Triplet": []}
+{"ID": "R10058:S014", "Triplet": []}
+{"ID": "R10058:S012", "Triplet": [{"Aspect": "面的", "Opinion": "配", "VA": "6.30#5.70"}, {"Aspect": "面的", "Opinion": "還起", "VA": "6.30#5.70"}, {"Aspect": "面的", "Opinion": "到清", "VA": "6.30#5.70"}]}
+{"ID": "R10057:S018", "Triplet": []}
+{"ID": "R10057:S016", "Triplet": [{"Aspect": "的麵", "Opinion": "主", "VA": "6.53#6.18"}, {"Aspect": "的麵", "Opinion": ",口", "VA": "6.53#6.18"}, {"Aspect": "的麵", "Opinion": "感軟", "VA": "6.53#6.18"}]}
+{"ID": "R10057:S011", "Triplet": [{"Aspect": "的湯", "Opinion": "底,", "VA": "6.56#6.14"}]}
+{"ID": "R10057:S009", "Triplet": []}
+{"ID": "R10055:S006", "Triplet": [{"Aspect": "酥", "Opinion": "外", "VA": "6.42#5.88"}, {"Aspect": "酥", "Opinion": "微", "VA": "6.42#5.88"}, {"Aspect": "包", "Opinion": "麵", "VA": "6.59#6.10"}, {"Aspect": ",麵", "Opinion": ",", "VA": "6.57#6.05"}, {"Aspect": "內柔", "Opinion": "的", "VA": "6.35#5.78"}, {"Aspect": "內柔", "Opinion": "口", "VA": "6.35#5.78"}, {"Aspect": "內柔", "Opinion": "感,", "VA": "6.35#5.78"}]}
+{"ID": "R10055:S005", "Triplet": []}
+{"ID": "R10052:S010", "Triplet": []}
+{"ID": "R10052:S004", "Triplet": [{"Aspect": "區", "Opinion": ",", "VA": "6.08#5.58"}, {"Aspect": "瘦", "Opinion": "肥", "VA": "6.09#5.57"}, {"Aspect": "區", "Opinion": "切", "VA": "6.08#5.58"}, {"Aspect": "適", "Opinion": ",肉", "VA": "6.06#5.54"}]}
+{"ID": "R10050:S008", "Triplet": []}
+{"ID": "R10050:S007", "Triplet": []}
+{"ID": "R10050:S005", "Triplet": []}
+{"ID": "R10050:S004", "Triplet": []}
+{"ID": "R10048:S013", "Triplet": [{"Aspect": "不", "Opinion": "們", "VA": "6.75#6.32"}, {"Aspect": "不", "Opinion": "好滿", "VA": "6.75#6.32"}, {"Aspect": "僅是", "Opinion": "水都", "VA": "6.83#6.41"}]}
+{"ID": "R10045:S010", "Triplet": []}
+{"ID": "R10045:S007", "Triplet": []}
+{"ID": "R10045:S005", "Triplet": []}
+{"ID": "R10032:S002", "Triplet": []}
+{"ID": "R10031:S008", "Triplet": []}
+{"ID": "R10029:S004", "Triplet": []}
+{"ID": "R10029:S003", "Triplet": []}
+{"ID": "R10028:S005", "Triplet": []}
+{"ID": "R10028:S003", "Triplet": []}
+{"ID": "R10028:S001", "Triplet": []}
+{"ID": "R10026:S019", "Triplet": []}
+{"ID": "R10026:S016", "Triplet": [{"Aspect": "肉", "Opinion": "不小", "VA": "6.38#5.88"}]}
+{"ID": "R10026:S015", "Triplet": []}
+{"ID": "R10026:S014", "Triplet": []}
+{"ID": "R10026:S001", "Triplet": []}
+{"ID": "R10026:S000", "Triplet": []}
+{"ID": "R10023:S011", "Triplet": []}
+{"ID": "R10023:S007", "Triplet": []}
+{"ID": "R10023:S004", "Triplet": []}
+{"ID": "R10022:S015", "Triplet": [{"Aspect": "酥脆", "Opinion": "口", "VA": "6.55#6.04"}, {"Aspect": "酥脆", "Opinion": "感", "VA": "6.55#6.04"}, {"Aspect": "酥脆", "Opinion": "內部", "VA": "6.55#6.04"}, {"Aspect": "酥脆", "Opinion": "人意", "VA": "6.55#6.04"}]}
+{"ID": "R10022:S012", "Triplet": []}
+{"ID": "R10022:S011", "Triplet": []}
